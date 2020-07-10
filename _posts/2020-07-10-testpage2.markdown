@@ -19,8 +19,8 @@ a buhc o text in all kinds of ways
 some links:
 
 
-[contact](https://clemjar.github.io/hikingblog.github.io/contact/)
+[contactlink](https://clemjar.github.io/hikingblog.github.io/contact/)
 
 
 
-[ettalmalndl](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/28/Ettaler-Manndl)
+[ettalmandl](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/28/Ettaler-Manndl)
