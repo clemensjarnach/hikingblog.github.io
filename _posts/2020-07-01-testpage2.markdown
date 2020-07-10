@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Hoher Fricken"
+date:   2020-06-23 12:28:47 +0200
+categories: jekyll update
+permalink: /:categories/:year/:month/:day/:title
+---
+
+# test _posts
+![testimg](/assets/img/hiking/hiking-ettaler-mandl-1.jpeg)
+
+a buhc o text in all kinds of ways
+
+-ljfn
+-lgna
+-ljfa
