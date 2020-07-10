@@ -1,13 +1,93 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/hikingblog.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/hikingblog.github.io/" rel="alternate" type="text/html" /><updated>2020-07-10T12:54:10+02:00</updated><id>http://localhost:4000/hikingblog.github.io/feed.xml</id><title type="html">Mountaineering with Lemon</title><subtitle>This is a list of my favourite mountain hikes, climbs, scrambles, ski-tours, and places. This website is first and foremost a place to keep my own notes and is not directly intended as a guide for others.</subtitle><entry><title type="html">Ettaler Manndl</title><link href="http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/28/Ettaler-Manndl" rel="alternate" type="text/html" title="Ettaler Manndl" /><published>2020-06-28T12:28:47+02:00</published><updated>2020-06-28T12:28:47+02:00</updated><id>http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/28/Ettaler-Manndl</id><content type="html" xml:base="http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/28/Ettaler-Manndl">&lt;h1 id=&quot;ettaler-manndl--1633m&quot;&gt;Ettaler Manndl  (1633m)&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-10T20:19:43+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mountaineering with Lemon</title><subtitle>This is a list of my favourite mountain hikes, climbs, scrambles, ski-tours, and places. This website is first and foremost a place to keep my own notes and is not directly intended as a guide for others.</subtitle><entry><title type="html">test-post</title><link href="http://localhost:4000/jekyll/update/2020/07/10/testpage2" rel="alternate" type="text/html" title="test-post" /><published>2020-07-10T12:28:47+02:00</published><updated>2020-07-10T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/07/10/testpage2</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/07/10/testpage2">&lt;h1 id=&quot;test-_posts&quot;&gt;test _posts&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/hiking/hiking-ettaler-mandl-1.jpeg&quot; alt=&quot;testimg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/hiking/hiking-ettaler-mandl-1.jpeg&quot; alt=&quot;Ettaler Manndl Gipfel&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;a buhc o text in all kinds of ways&lt;/p&gt;
+
+&lt;p&gt;-ljfn
+-lgna
+-ljfa&lt;/p&gt;
+
+&lt;p&gt;some links:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://clemjar.github.io/hikingblog.github.io/contact/&quot;&gt;contactlink&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/28/Ettaler-Manndl&quot;&gt;ettalmandl&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">test _posts</summary></entry><entry><title type="html">test-post 3</title><link href="http://localhost:4000/jekyll/update/2020/07/10/testpage3" rel="alternate" type="text/html" title="test-post 3" /><published>2020-07-10T12:28:47+02:00</published><updated>2020-07-10T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/07/10/testpage3</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/07/10/testpage3">&lt;h1 id=&quot;test-post-3&quot;&gt;test post 3&lt;/h1&gt;
+
+&lt;p&gt;This test post tests navigation and the “simple” layout.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">test post 3</summary></entry><entry><title type="html">Ettaler Manndl (1633m)</title><link href="http://localhost:4000/jekyll/update/2020/06/28/Ettaler-Manndl" rel="alternate" type="text/html" title="Ettaler Manndl (1633m)" /><published>2020-06-28T12:28:47+02:00</published><updated>2020-06-28T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/06/28/Ettaler-Manndl</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/28/Ettaler-Manndl">&lt;p&gt;&lt;img src=&quot;/assets/img/hiking/Ettalermandl-2.jpeg&quot; alt=&quot;Ettaler Manndl img1&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;“Das Ettaler Manndl (1633m) ist ein kleiner Felskopf in den Ammergauer Alpen, der nicht nur bei Münchner Wanderern äußerste Beliebtheit genießt. Die Wanderung ist bis unter den felsigen Gipfelaufbau einfach, nur auf die letzten Meter zum Gipfelkreuz führt ein leichter – aber nicht zu unterschätzender – Klettersteig (A/B). Durch die vielen Besteigungen ist der Fels extrem abgespeckt, weshalb man bei feuchten Verhältnissen besser auf eine Besteigung verzichtet. Vom Gipfel bietet sich eine eindrucksvolle Rundumsicht in das Wettersteingebirge und das bayerische Voralpenland mit seinen zahlreichen Seen! Klettersteig-Tourentipp (nicht unterschätzen!) auch für Familien! (this text is from the BergTour online page. REPLACE WITH OWN TEXT)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/hiking/hiking-ettaler-mandl-2.jpeg&quot; alt=&quot; Ettaler Manndl 2&quot; /&gt;
-&lt;img src=&quot;/assets/img/hiking/hiking-ettaler-mandl-3.jpeg&quot; alt=&quot; Ettaler Manndl 3&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/hiking/Ettalermandl-1.jpeg&quot; alt=&quot;Ettaler Manndl img2&quot; /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;link-to-online-description&quot;&gt;&lt;a href=&quot;https://www.bergtour-online.de/bergtouren/klettersteige/ettaler-manndl/&quot;&gt;Link to Online Description&lt;/a&gt;&lt;/h4&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Ettaler Manndl (1633m)</summary></entry><entry><title type="html">Krottenkopf</title><link href="http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/23/Krottenkopf" rel="alternate" type="text/html" title="Krottenkopf" /><published>2020-06-23T12:28:47+02:00</published><updated>2020-06-23T12:28:47+02:00</updated><id>http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/23/Krottenkopf</id><content type="html" xml:base="http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/23/Krottenkopf">&lt;h1 id=&quot;krottenkopf-2086-m&quot;&gt;Krottenkopf (2086 m)&lt;/h1&gt;
+&lt;h4 id=&quot;link-to-online-description&quot;&gt;&lt;a href=&quot;https://www.bergtour-online.de/bergtouren/klettersteige/ettaler-manndl/&quot;&gt;Link to Online Description&lt;/a&gt;&lt;/h4&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"></summary></entry><entry><title type="html">Hoher Fricken</title><link href="http://localhost:4000/jekyll/update/2020/06/23/Hoher-Fricken" rel="alternate" type="text/html" title="Hoher Fricken" /><published>2020-06-23T12:28:47+02:00</published><updated>2020-06-23T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/06/23/Hoher-Fricken</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/23/Hoher-Fricken">&lt;h2 id=&quot;hoher-fricken-1984-m&quot;&gt;Hoher Fricken (1984 m)&lt;/h2&gt;
+&lt;h3 id=&quot;estergebierge&quot;&gt;Estergebierge&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.hoehenrausch.de/berge/hoher-fricken/highlight.jpg&quot; alt=&quot;Hoher Fricken&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Details:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ascent:  3:30 h&lt;/li&gt;
+  &lt;li&gt;Descent:  3:00 h&lt;/li&gt;
+  &lt;li&gt;Altitude difference: 1270 m vert.&lt;/li&gt;
+  &lt;li&gt;Distance: 13,0 km&lt;/li&gt;
+  &lt;li&gt;Season: End of May - November.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;or&quot;&gt;OR&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Details&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ascent:&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3:30 h&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Descent:&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3:00 h&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Vert. m:&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1270 m&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Distance:&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;13,0 km&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Season:&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;End of May - November.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Charakter:&lt;/strong&gt; of medium difficulty. The ascent is partly very steep and requires experience (i.e.Trittsicherheit).
+An additional highlight of this tour are the &lt;em&gt;Kuhfluchtwasserfälle&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Drive to base:&lt;/strong&gt;
+To Farchant; direction Bahnhofsstraße, then onto Mühldörflstraße. At the end of the road take a left to Kuhfluchtweg. Follow the road to the parking area.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Approach:&lt;/strong&gt;
+Approach is possible from Farchant (i.e. Ortsteil Mühldorf) or you could take the Wank-lift to the Wank and hike down to the Esterbergalm.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hike:&lt;/strong&gt;
+From Farchant/Mühldorf follow a steep trail through the forrest to the Esterbergalm. Follow the direction to Frickenkarl. Follow the wide ridge to the summit.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;logbook&quot;&gt;Logbook:&lt;/h2&gt;
+
+&lt;h4 id=&quot;hike-091020&quot;&gt;Hike 09.10.20&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Farchat - Kuhflucht - Hoher Fricken - Bischof - Oberausteig - Farchat&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;read-more-on-hoehenrauschde&quot;&gt;&lt;a href=&quot;https://www.hoehenrausch.de/berge/hoher-fricken/&quot;&gt;Read more on hoehenrausch.de&lt;/a&gt;&lt;/h4&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Hoher Fricken (1984 m) Estergebierge</summary></entry><entry><title type="html">Krottenkopf</title><link href="http://localhost:4000/jekyll/update/2020/06/23/Krottenkopf" rel="alternate" type="text/html" title="Krottenkopf" /><published>2020-06-23T12:28:47+02:00</published><updated>2020-06-23T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/06/23/Krottenkopf</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/23/Krottenkopf">&lt;h1 id=&quot;krottenkopf-2086-m&quot;&gt;Krottenkopf (2086 m)&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://www.bergtour-online.de/wp-content/uploads/2015/08/Krottenkopf-Titel-1.jpg&quot; alt=&quot;Krottenkopf&quot; /&gt;&lt;/p&gt;
 
@@ -31,37 +111,13 @@ It is possible to start from 1)Oberau, 2)Farchant, or 3) Eschenlohe.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Hike:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;read-more-on-bergtour-online&quot;&gt;&lt;a href=&quot;https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/krottenkopf/&quot;&gt;Read more on Bergtour-Online&lt;/a&gt;&lt;/h4&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Krottenkopf (2086 m)</summary></entry><entry><title type="html">Hoher Fricken</title><link href="http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/23/Hoher-Fricken" rel="alternate" type="text/html" title="Hoher Fricken" /><published>2020-06-23T12:28:47+02:00</published><updated>2020-06-23T12:28:47+02:00</updated><id>http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/23/Hoher-Fricken</id><content type="html" xml:base="http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/23/Hoher-Fricken">&lt;h1 id=&quot;hoher-fricken-1984-m&quot;&gt;Hoher Fricken (1984 m)&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://www.hoehenrausch.de/berge/hoher-fricken/highlight.jpg&quot; alt=&quot;Hoher Fricken&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;estergebierge&quot;&gt;&lt;strong&gt;Estergebierge&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Ascent:  3:30 h
-Descent:  3:00 h
-Altitude difference: 1270 m vert.
-Distance: 13,0 km&lt;/p&gt;
-
-&lt;h2 id=&quot;season-end-of-may---november&quot;&gt;Season: End of May - November.&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Charakter:&lt;/strong&gt; of medium difficulty. The ascent is partly very steep and requires experience (i.e.Trittsicherheit).
-An additional highlight of this tour are the &lt;em&gt;Kuhfluchtwasserfälle&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Drive to base:&lt;/strong&gt;
-To Farchant; direction Bahnhofsstraße, then onto Mühldörflstraße. At the end of the road take a left to Kuhfluchtweg. Follow the road to the parking area.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Approach:&lt;/strong&gt;
-Approach is possible from Farchant (i.e. Ortsteil Mühldorf) or you could take the Wank-lift to the Wank and hike down to the Esterbergalm.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hike:&lt;/strong&gt;
-From Farchant/Mühldorf follow a steep trail through the forrest to the Esterbergalm. Follow the direction to Frickenkarl. Follow the wide ridge to the summit.&lt;/p&gt;
-
-&lt;h4 id=&quot;read-more-on-hoehenrauschde&quot;&gt;&lt;a href=&quot;https://www.hoehenrausch.de/berge/hoher-fricken/&quot;&gt;Read more on hoehenrausch.de&lt;/a&gt;&lt;/h4&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Hoher Fricken (1984 m)</summary></entry><entry><title type="html">Teufelstättkopf</title><link href="http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/23/Teufelstaettkopf" rel="alternate" type="text/html" title="Teufelstättkopf" /><published>2020-06-23T12:28:47+02:00</published><updated>2020-06-23T12:28:47+02:00</updated><id>http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/23/Teufelstaettkopf</id><content type="html" xml:base="http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/23/Teufelstaettkopf">&lt;h1 id=&quot;teufelstättkopf-1758m--pürschling-1566m&quot;&gt;Teufelstättkopf (1758m) &amp;amp; Pürschling (1566m)&lt;/h1&gt;
+&lt;h4 id=&quot;read-more-on-bergtour-online&quot;&gt;&lt;a href=&quot;https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/krottenkopf/&quot;&gt;Read more on Bergtour-Online&lt;/a&gt;&lt;/h4&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Krottenkopf (2086 m)</summary></entry><entry><title type="html">Teufelstättkopf</title><link href="http://localhost:4000/jekyll/update/2020/06/23/Teufelstaettkopf" rel="alternate" type="text/html" title="Teufelstättkopf" /><published>2020-06-23T12:28:47+02:00</published><updated>2020-06-23T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/06/23/Teufelstaettkopf</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/23/Teufelstaettkopf">&lt;h1 id=&quot;teufelstättkopf-1758m--pürschling-1566m&quot;&gt;Teufelstättkopf (1758m) &amp;amp; Pürschling (1566m)&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/hiking/hiking-teufelstaettkopf-1.jpg&quot; alt=&quot;teufelstaettkopf Gipfel&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;“Der Teufelstättenkopf (1758m) nahe Unterammergau ist ein sehr schöner Aussichtsgipfel, der über leichte Forstwege und mäßig steilen Steig erreichbar ist. Nur kurz vor dem Gipfel muss eine leichte, seilgesicherte Kletterei “bewältigt” werden. Oben wird man mit super Aussicht belohnt. Und auf dem Rückweg wartet nach einer Hütteneinkehr Nahe des Gipfels (Albert-Schuster-Haus – “Pürschling-Haus”, 1554m) und dem Pürschling (1566m) sogar noch eine sehr schöne Klammwanderung (“Schleifmühlenklamm“). Zudem gibt es eine lustige Sommerrodelbahn nicht weit vom Parkplatz! Tipp, auch für die ganze Familie!” (this text is from the BergTour online page. REPLACE WITH OWN TEXT)&lt;/p&gt;
 
-&lt;h4 id=&quot;read-more-on-bergtour-online&quot;&gt;&lt;a href=&quot;https://www.bergtour-online.de/bergtouren/bergwanderungen/mittel/teufelstaettkopf/&quot;&gt;Read more on Bergtour-Online&lt;/a&gt;&lt;/h4&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Teufelstättkopf (1758m) &amp;amp; Pürschling (1566m)</summary></entry><entry><title type="html">Hiking &amp;amp; Mountaineering</title><link href="http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/22/Hiking.html" rel="alternate" type="text/html" title="Hiking &amp;amp; Mountaineering" /><published>2020-06-22T12:28:47+02:00</published><updated>2020-06-22T12:28:47+02:00</updated><id>http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/22/Hiking</id><content type="html" xml:base="http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/22/Hiking.html">&lt;p&gt;This is a list of my favourite mountain hikes and mountaineering routes grouped by regions.&lt;/p&gt;
+&lt;h4 id=&quot;read-more-on-bergtour-online&quot;&gt;&lt;a href=&quot;https://www.bergtour-online.de/bergtouren/bergwanderungen/mittel/teufelstaettkopf/&quot;&gt;Read more on Bergtour-Online&lt;/a&gt;&lt;/h4&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Teufelstättkopf (1758m) &amp;amp; Pürschling (1566m)</summary></entry><entry><title type="html">Hiking &amp;amp; Mountaineering</title><link href="http://localhost:4000/jekyll/update/2020/06/22/Hiking.html" rel="alternate" type="text/html" title="Hiking &amp;amp; Mountaineering" /><published>2020-06-22T12:28:47+02:00</published><updated>2020-06-22T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/06/22/Hiking</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/22/Hiking.html">&lt;p&gt;This is a list of my favourite mountain hikes and mountaineering routes grouped by regions.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://a.travel-assets.com/findyours-php/viewfinder/images/res70/32000/32826-Garmisch-Partenkirchen.jpg&quot; alt=&quot;Mountains&quot; /&gt;&lt;/p&gt;
 
@@ -119,20 +175,11 @@ From Farchant/Mühldorf follow a steep trail through the forrest to the Esterber
   &lt;li&gt;Lamsenspitze (2508m) - &lt;a href=&quot;https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/lamsenspitze/&quot;&gt;online description&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Torscharte &amp;amp; Torkopf (2014m) - &lt;a href=&quot;https://www.bergtour-online.de/bergtouren/bergwanderungen/mittel/torkopf-karwendel/&quot;&gt;online description&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Fleischbank, Hölzelstalljoch &amp;amp; Grasbergjoch (2026m) - &lt;a href=&quot;https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/wanderung-fleischbank-hoelzelstalljoch-grasbergjoch-im-karwendel/&quot;&gt;online description&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">This is a list of my favourite mountain hikes and mountaineering routes grouped by regions.</summary></entry><entry><title type="html">Ski Touring</title><link href="http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/day/Ski-touring" rel="alternate" type="text/html" title="Ski Touring" /><published>2020-06-19T12:28:47+02:00</published><updated>2020-06-19T12:28:47+02:00</updated><id>http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/day/Ski-touring</id><content type="html" xml:base="http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/day/Ski-touring">&lt;!--insert a differetn picture here:--&gt;
-&lt;!--
-![Mountains](https://a.travel-assets.com/findyours-php/viewfinder/images/res70/32000/32826-Garmisch-Partenkirchen.jpg)
---&gt;
-
-&lt;h2 id=&quot;ski-touring&quot;&gt;Ski Touring:&lt;/h2&gt;
-
-&lt;h3 id=&quot;in-sellrain&quot;&gt;In Sellrain&lt;/h3&gt;
-
-&lt;p&gt;Lampsenspitze (2875 m) &lt;a href=&quot;https://www.tourentipp.com/de/touren/Lampsenspitze-Skitour-Sellrain_124.html&quot;&gt;https://www.tourentipp.com/de/touren/Lampsenspitze-Skitour-Sellrain_124.html&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"></summary></entry><entry><title type="html">Climbing</title><link href="http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/19/Climbing.html" rel="alternate" type="text/html" title="Climbing" /><published>2020-06-19T12:28:47+02:00</published><updated>2020-06-19T12:28:47+02:00</updated><id>http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/19/Climbing</id><content type="html" xml:base="http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/19/Climbing.html">&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hinterstoisserquergang.JPG/1280px-Hinterstoisserquergang.JPG&quot; alt=&quot;Alpine-climbing&quot; /&gt;&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">This is a list of my favourite mountain hikes and mountaineering routes grouped by regions.</summary></entry><entry><title type="html">Climbing</title><link href="http://localhost:4000/jekyll/update/2020/06/19/Climbing.html" rel="alternate" type="text/html" title="Climbing" /><published>2020-06-19T12:28:47+02:00</published><updated>2020-06-19T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/06/19/Climbing</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/19/Climbing.html">&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hinterstoisserquergang.JPG/1280px-Hinterstoisserquergang.JPG&quot; alt=&quot;Alpine-climbing&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;climbing-sport--alpin&quot;&gt;Climbing (Sport &amp;amp; Alpin):&lt;/h2&gt;
 
-&lt;h3 id=&quot;at-unter--oberammergau--ettal&quot;&gt;At Unter-/ Oberammergau &amp;amp; Ettal&lt;/h3&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"></summary></entry><entry><title type="html">Via Ferrata</title><link href="http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/19/Via-ferrata.html" rel="alternate" type="text/html" title="Via Ferrata" /><published>2020-06-19T12:28:47+02:00</published><updated>2020-06-19T12:28:47+02:00</updated><id>http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/19/Via-ferrata</id><content type="html" xml:base="http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/19/Via-ferrata.html">&lt;!--insert a differetn picture here:--&gt;
+&lt;h3 id=&quot;at-unter--oberammergau--ettal&quot;&gt;At Unter-/ Oberammergau &amp;amp; Ettal&lt;/h3&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"></summary></entry><entry><title type="html">Via Ferrata</title><link href="http://localhost:4000/jekyll/update/2020/06/19/Via-ferrata.html" rel="alternate" type="text/html" title="Via Ferrata" /><published>2020-06-19T12:28:47+02:00</published><updated>2020-06-19T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/06/19/Via-ferrata</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/19/Via-ferrata.html">&lt;!--insert a differetn picture here:--&gt;
 &lt;!--
 ![Mountains](https://a.travel-assets.com/findyours-php/viewfinder/images/res70/32000/32826-Garmisch-Partenkirchen.jpg)
 --&gt;
@@ -141,20 +188,13 @@ From Farchant/Mühldorf follow a steep trail through the forrest to the Esterber
 
 &lt;h3 id=&quot;garmisch&quot;&gt;Garmisch&lt;/h3&gt;
 
-&lt;p&gt;content&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/18/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-06-18T12:28:47+02:00</published><updated>2020-06-18T12:28:47+02:00</updated><id>http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/18/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/hikingblog.github.io/jekyll/update/2020/06/18/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;content&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"></summary></entry><entry><title type="html">Ski Touring</title><link href="http://localhost:4000/jekyll/update/2020/06/day/Ski-touring" rel="alternate" type="text/html" title="Ski Touring" /><published>2020-06-19T12:28:47+02:00</published><updated>2020-06-19T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/06/day/Ski-touring</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/day/Ski-touring">&lt;!--insert a differetn picture here:--&gt;
+&lt;!--
+![Mountains](https://a.travel-assets.com/findyours-php/viewfinder/images/res70/32000/32826-Garmisch-Partenkirchen.jpg)
+--&gt;
 
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+&lt;h2 id=&quot;ski-touring&quot;&gt;Ski Touring:&lt;/h2&gt;
 
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&quot;in-sellrain&quot;&gt;In Sellrain&lt;/h3&gt;
 
-&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Lampsenspitze (2875 m) &lt;a href=&quot;https://www.tourentipp.com/de/touren/Lampsenspitze-Skitour-Sellrain_124.html&quot;&gt;https://www.tourentipp.com/de/touren/Lampsenspitze-Skitour-Sellrain_124.html&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"></summary></entry></feed>

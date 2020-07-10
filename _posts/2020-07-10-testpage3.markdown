@@ -1,0 +1,11 @@
+---
+layout: simple
+title:  "test-post 3"
+date:   2020-07-10 12:28:47 +0200
+categories: jekyll update
+permalink: /:categories/:year/:month/:day/:title
+---
+
+# test post 3
+
+This test post tests navigation and the "simple" layout.
