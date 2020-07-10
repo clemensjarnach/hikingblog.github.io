@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "Ettaler Manndl"
+title:  "Ettaler Manndl (1633m)"
 date:   2020-06-28 12:28:47 +0200
 categories: jekyll update
 permalink: /:categories/:year/:month/:day/:title
 ---
-
-# Ettaler Manndl  (1633m)
 
 ![Ettaler Manndl pic1](/assets/img/hiking/hiking-ettaler-mandl-1.jpeg)
 ![et img](/assets/img/hiking/hiking-ettaler-mandl-1.jpeg)
