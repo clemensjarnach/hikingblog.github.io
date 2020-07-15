@@ -12,6 +12,8 @@ permalink: /:categories/:year/:month/:day/:title
 
 ![Hoher Fricken](https://www.hoehenrausch.de/berge/hoher-fricken/highlight.jpg)
 
+![Mountains](/assets/img/hiking/wank-1.jpeg)
+
 
 Details:
 -   Ascent:  3:30 h
@@ -52,6 +54,8 @@ From Farchant/Mühldorf follow a steep trail through the forrest to the Esterber
 **Route:**  Farchat - Kuhflucht - Hoher Fricken - Bischof - Oberausteig - Farchat
 
 [Hoher-Fricken-Bischof Tour Details](/assets/docs/hoher-fricken-bischof-tour-details.pdf)
+
+[map on alpenvereinaktiv](https://www.alpenvereinaktiv.com/de/tour/farchant-hoher-fricken-bischof-oberauer-steig-farchant/177925701/?share=%7Eznhruplk%244osg3avn)
 
 - I parked at the Kuhflucht parking area at the end fo the **‘Kuhfluchtweg’** in Farchant, Ortsteil Mühldorf. Address for Car navigation is Farchant, Kuhfluchtweg.
 - I started hiking at 9:00am.
