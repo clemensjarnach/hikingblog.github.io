@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![My test img](/assets/img/hiking/hiking-img-2.jpg)
+![Wetterstein](/assets/img/hiking/Wetterstein-jul.JPG)

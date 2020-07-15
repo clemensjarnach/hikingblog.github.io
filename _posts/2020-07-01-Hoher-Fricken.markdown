@@ -14,7 +14,6 @@ permalink: /:categories/:year/:month/:day/:title
 
 ![Mountains](/assets/img/hiking/wank-1.jpeg)
 
-
 Details:
 -   Ascent:  3:30 h
 -   Descent:  3:00 h
