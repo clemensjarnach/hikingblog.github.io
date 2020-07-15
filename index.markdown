@@ -5,3 +5,7 @@
 layout: home
 ---
 ![Wetterstein](/assets/img/hiking/Wetterstein-jul.JPG)
+
+OR
+
+![hiking-img-2](/assets/img/hiking/Wetterstein-jul.JPG)
