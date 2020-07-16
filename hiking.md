@@ -6,7 +6,7 @@ permalink: /hiking/
 
 This is a list of my favourite mountain hikes and mountaineering routes grouped by regions.
 
-![Mountains](/assets/img/hiking/wank-1.jpeg)
+![Mountains](/assets/wank-1.jpeg)
 
 
 ### At Unter-/ Oberammergau & Ettal (i.e. Ammergauer Alpen)
@@ -25,6 +25,7 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 
 - Hohe Kiste (1922m)
 - [Hoher Fricken (1940m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/23/Hoher-Fricken)
+- [Link to Hoher Fricken ]({% post_url 2020-07-02-Hoher-Fricken %})
 - [Krottenkopf (2086m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/23/Krottenkopf)
 
 

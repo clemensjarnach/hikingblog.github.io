@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hoher Fricken"
-date:   2020-06-23 12:28:47 +0200
+title:  "Hoher Fricken test"
+date:   2020-07-02 12:28:47 +0200
 categories: jekyll update
 permalink: /:categories/:year/:month/:day/:title
 ---
@@ -56,7 +56,7 @@ From Farchant/Mühldorf follow a steep trail through the forrest to the Esterber
 
 [map on alpenvereinaktiv](https://www.alpenvereinaktiv.com/de/tour/farchant-hoher-fricken-bischof-oberauer-steig-farchant/177925701/?share=%7Eznhruplk%244osg3avn)
 
-[details pdf](hikingblog.github.io/assets/docs/hoher-fricken-bischof-tour-details.pdf)
+[details pdf](/hikingblog.github.io/assets/docs/hoher-fricken-bischof-tour-details.pdf)
 
 - I parked at the Kuhflucht parking area at the end fo the **‘Kuhfluchtweg’** in Farchant, Ortsteil Mühldorf. Address for Car navigation is Farchant, Kuhfluchtweg.
 - I started hiking at 9:00am.

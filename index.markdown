@@ -10,11 +10,4 @@ OR
 
 ![hiking-img-2](/assets/img/hiking/hiking-img-2.jpg)
 
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ https://clemjar.github.io/hikingblog.github.io/via-ferrata/ }}">{{ via feratta  }}</a>
-    </li>
-  {% endfor %}
-</ul>
+[Link to Hoher Fricken ]({% post_url 2020-07-02-Hoher-Fricken %})
