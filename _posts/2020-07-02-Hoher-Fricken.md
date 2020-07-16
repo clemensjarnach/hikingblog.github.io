@@ -50,11 +50,13 @@ From Farchant/Mühldorf follow a steep trail through the forrest to the Esterber
 ## Logbook:
 
 ### Hike 09.07.2020 [Hoher Fricken & Bischof ]
-**Route:**  Farchat - Kuhflucht - Hoher Fricken - Bischof - Oberausteig - Farchat
+**Route:**  Farchant - Kuhflucht - Hoher Fricken - Bischof - Oberausteig - Farchant
 
 [Hoher-Fricken-Bischof Tour Details](/assets/docs/hoher-fricken-bischof-tour-details.pdf)
 
 [map on alpenvereinaktiv](https://www.alpenvereinaktiv.com/de/tour/farchant-hoher-fricken-bischof-oberauer-steig-farchant/177925701/?share=%7Eznhruplk%244osg3avn)
+
+[alpenvereinaktiv](https://www.alpenvereinaktiv.com/de/tour/farchant-hoher-fricken-bischof-oberauer-steig-farchant/177925701/?share=~znhruplk%244osg3avn#dm=1)
 
 [details pdf](/hikingblog.github.io/assets/docs/hoher-fricken-bischof-tour-details.pdf)
 
@@ -75,7 +77,7 @@ From Farchant/Mühldorf follow a steep trail through the forrest to the Esterber
 - The Oberauer-Steig is recommended as the path down, as this trail is not quite as steep as the trail we took up.
 - Around 16:00 I was back down at the parking area.
 - Because it was such a hot day, I cooled my feet in the Loisach. Highly recommend.
-- The hike is very steep an requires endurance. However, the steep trail rewards with a fantastic view fomr the summit.
+- The hike is very steep an requires endurance. However, the steep trail rewards with a fantastic view from the summit.
 
 **—> In total I hiked from 9:00am to 16:00 with 5:15h walking time. Distance: 16.25km. Total elevation: 1.504m. Highest point: 2.031m. Lowest Point: 587m**
 

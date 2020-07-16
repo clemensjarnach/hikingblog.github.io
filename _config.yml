@@ -18,11 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mountaineering with Lemon
+title: Mountaineering with Clemens J. Fex
 email: jarnach@hotmail.de
 description: >- # this means to ignore newlines until "baseurl:"
   This is a list of my favourite mountain hikes, climbs, scrambles, ski-tours, and places.
   This website is first and foremost a place to keep my own notes and is not directly intended as a guide for others.
+  © Copyright 2020, Clemens Jarnach
 baseurl: "hikingblog.github.io" # the subpath of your site, e.g. /blog - use: hikingblog.github.io  (when using localhost:4000  baseurl:"" needs to be empty)
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

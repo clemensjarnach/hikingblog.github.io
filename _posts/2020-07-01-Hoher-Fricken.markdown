@@ -58,6 +58,7 @@ From Farchant/Mühldorf follow a steep trail through the forrest to the Esterber
 
 [details pdf](hikingblog.github.io/assets/docs/hoher-fricken-bischof-tour-details.pdf)
 
+
 - I parked at the Kuhflucht parking area at the end fo the **‘Kuhfluchtweg’** in Farchant, Ortsteil Mühldorf. Address for Car navigation is Farchant, Kuhfluchtweg.
 - I started hiking at 9:00am.
 - It was a very hot day. Luckily the majority of the ascent is in the forest and therefore in the shade. Nevertheless when I reached the Latschen (i.e. alpine pine bushes), it got really hot, as the bushes keep the heat and reflect it.

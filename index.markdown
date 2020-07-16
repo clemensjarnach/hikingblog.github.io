@@ -4,10 +4,11 @@
 
 layout: home
 ---
+
+![Lauren-Hiking](/assets/img/lauren-hiking-1.png)
+
 ![Wetterstein](/assets/img/hiking/Wetterstein-jul.JPG)
 
 OR
 
 ![hiking-img-2](/assets/img/hiking/hiking-img-2.jpg)
-
-[Link to Hoher Fricken ]({% post_url 2020-07-02-Hoher-Fricken %})
