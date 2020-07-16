@@ -1,35 +1,112 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-16T12:58:14+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mountaineering with Lemon</title><subtitle>This is a list of my favourite mountain hikes, climbs, scrambles, ski-tours, and places. This website is first and foremost a place to keep my own notes and is not directly intended as a guide for others.</subtitle><entry><title type="html">test-post</title><link href="http://localhost:4000/jekyll/update/2020/07/10/testpage2" rel="alternate" type="text/html" title="test-post" /><published>2020-07-10T12:28:47+02:00</published><updated>2020-07-10T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/07/10/testpage2</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/07/10/testpage2">&lt;h1 id=&quot;test-_posts&quot;&gt;test _posts&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/img/hiking/hiking-ettaler-mandl-1.jpeg&quot; alt=&quot;testimg&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-16T17:19:16+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mountaineering with Clemens</title><subtitle>This is a list of my favourite mountain hikes, climbs, scrambles, ski-tours, and places. This website is first and foremost a place to keep my own notes and is not directly intended as a guide for others. © Copyright 2020, Clemens Jarnach</subtitle><entry><title type="html">Große Klammspitze (1924 m)</title><link href="http://localhost:4000/jekyll/update/2020/07/14/Gro%C3%9Fe-Klammspitze" rel="alternate" type="text/html" title="Große Klammspitze (1924 m)" /><published>2020-07-14T12:28:47+02:00</published><updated>2020-07-14T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/07/14/Gro%C3%9Fe-Klammspitze</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/07/14/Gro%C3%9Fe-Klammspitze">&lt;h3 id=&quot;ammergauer-alpen&quot;&gt;Ammergauer Alpen&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.bergtour-online.de/wp-content/uploads/2016/11/Gro%C3%9Fe-Klammspitze-022-620x350.jpg&quot; alt=&quot;Große-Klammspitze&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;a buhc o text in all kinds of ways&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Details&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Type:&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Medium mountaineering route &lt;strong&gt;(T3)&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ascent:&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3:00 h&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Descent:&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2:30 h&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Elevation:&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1250 m vert.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Distance:&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Season:&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;End of May - Early October&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Notes:&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Not recommended after snowfall or strong rainfall&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Danger:&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Alpine Environment with Alpine Dangers&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-&lt;p&gt;-ljfn
--lgna
--ljfa&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Route:&lt;/strong&gt;  Parking area Schloss Linderhof (900m) – Brunnenkopfhütte (1602m, 1:45h) – Große Klammspitze (1924m, 3:30h) – Descent same as Ascent&lt;/p&gt;
 
-&lt;p&gt;some links:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Character:&lt;/strong&gt; The Große Klammspitze is an alpine mountaineering route of  medium difficulty (T3). This hike requires experience and a good head for heights.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://clemjar.github.io/hikingblog.github.io/contact/&quot;&gt;contactlink&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hike:&lt;/strong&gt;
+From the Linderhof parking area we follow the signs to &lt;strong&gt;Brunnenkopf&lt;/strong&gt;. We follow the signs into the forest and hike on a broad forest path / gravel road. Shortly after we follow another sign and take a right into the forest. After 1h to 1.5h we reach the &lt;strong&gt;Brunnenkopfhütte&lt;/strong&gt; which lies at an elevation of 1602m. The path to the hut is very broad, and safe. The hike form the Linderhof parking area to the Brunnenkopfhütte is easy and well suited for families or less experience hikers. Because of that it is also a quote busy route. You will have already a great view from the hut.
+From the hut you can hike to the Brunnenkopf (20min). Or skip the Brunnenkopf and take a path left and follow the signs to &lt;strong&gt;Klammspitze&lt;/strong&gt;. The trail starting at the hut leading to the Klammspitze is significantly narrower and at some parts steeper. Here is experience necessary. After significant volumes of rainfall the trail can washed-out which may make the trail more difficult and dangers. After just a few moment after leaving the hut you will see the summit of the Große Klammspitze in front of you. We follow the hill-climbing which follows on the bottom of the Kleine Klammspitze and then starts to get steeper. The hill-climbing ground is full of loose and crushed rocks (dt. Schotter). We climb up the tor and rock. It is quite rocky and you will have to use your hands for balance. Always follow the red dots for orientation. Just below the summit you will have to scramble a little up to the rocky summit of the Große Klammspitze. The climbing is never really difficult or dangers. However, you will need some experience and a good head for heights.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/28/Ettaler-Manndl&quot;&gt;ettalmandl&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">test _posts</summary></entry><entry><title type="html">test-post 3</title><link href="http://localhost:4000/jekyll/update/2020/07/10/testpage3" rel="alternate" type="text/html" title="test-post 3" /><published>2020-07-10T12:28:47+02:00</published><updated>2020-07-10T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/07/10/testpage3</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/07/10/testpage3">&lt;h1 id=&quot;test-post-3&quot;&gt;test post 3&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Descent:&lt;/strong&gt;
+The normal route for the descent is the same as the ascent.&lt;/p&gt;
 
-&lt;p&gt;This test post tests navigation and the “simple” layout.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">test post 3</summary></entry><entry><title type="html">Hoher Fricken test</title><link href="http://localhost:4000/jekyll/update/2020/07/02/Hoher-Fricken" rel="alternate" type="text/html" title="Hoher Fricken test" /><published>2020-07-02T12:28:47+02:00</published><updated>2020-07-02T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/07/02/Hoher-Fricken</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/07/02/Hoher-Fricken">&lt;h2 id=&quot;hoher-fricken-1984-m&quot;&gt;Hoher Fricken (1984 m)&lt;/h2&gt;
-&lt;h3 id=&quot;estergebierge&quot;&gt;Estergebierge&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Huts/Stations:&lt;/strong&gt; &lt;a href=&quot;https://www.dav-bergland.de/brunnenkopfhuette.html&quot;&gt;Brunnenkopfhütte (1602m)&lt;/a&gt;, Tel. 0175 / 6540155, End of May to Early October&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.hoehenrausch.de/berge/hoher-fricken/highlight.jpg&quot; alt=&quot;Hoher Fricken&quot; /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;logbook&quot;&gt;Logbook:&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/wank-1.jpeg&quot; alt=&quot;Mountains&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;hike-14072020---große-klammspitze--brunnenkopf&quot;&gt;Hike 14.07.2020 - Große Klammspitze &amp;amp; Brunnenkopf&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Route:&lt;/strong&gt;  Parking area Schloss Linderhof (900m) – Brunnenkopfhütte (1602m) – Große Klammspitze (1924m) – Brunnenkopfhütte (1602m) - Brunnenkopf (1718m) - Parking area Schloss Linderhof (900m)&lt;/p&gt;
 
-&lt;p&gt;Details:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Map &amp;amp; Route Summary:&lt;/strong&gt;   &lt;a href=&quot;/hikingblog.github.io/assets/docs/hoher-fricken-bischof-tour-details.pdf&quot;&gt;1)Hoher-Fricken-pdf&lt;/a&gt; or &lt;a href=&quot;https://www.alpenvereinaktiv.com/de/tour/farchant-hoher-fricken-bischof-oberauer-steig-farchant/177925701/?share=~znhruplk%244osg3avn#dm=1&quot;&gt;2) online at alpenvereinaktiv&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;Ascent:  3:30 h&lt;/li&gt;
-  &lt;li&gt;Descent:  3:00 h&lt;/li&gt;
-  &lt;li&gt;Altitude difference: 1270 m vert.&lt;/li&gt;
-  &lt;li&gt;Distance: 13,0 km&lt;/li&gt;
-  &lt;li&gt;Season: End of May - November.&lt;/li&gt;
+  &lt;li&gt;I parked at the Kuhflucht parking area at the end fo the &lt;strong&gt;‘Kuhfluchtweg’&lt;/strong&gt; in Farchant, Ortsteil Mühldorf. Address for Car navigation is Farchant, Kuhfluchtweg.&lt;/li&gt;
+  &lt;li&gt;I started hiking at 9:00am.&lt;/li&gt;
+  &lt;li&gt;It was a very hot day. Luckily the majority of the ascent is in the forest and therefore in the shade. Nevertheless when I reached the Latschen (i.e. alpine pine bushes), it got really hot, as the bushes keep the heat and reflect it.&lt;/li&gt;
+  &lt;li&gt;It was quiet and a lonely hike. Not many hike from Farchant the very steep trail up to the Hoher Fricken. (You can alternatively take the Wank-Bahn and hike from the Wank summit on a ridge path to the Hoher Fricken).&lt;/li&gt;
+  &lt;li&gt;From the parking area I walked in the direction of the ‘Kuhfluchtwasserfälle’. Then I followed the &lt;strong&gt;‘Königsweg’&lt;/strong&gt;. I reached and crossed a bridge an a trail starts and goes very steeply up through the forest.&lt;/li&gt;
+  &lt;li&gt;The trail is indeed very steep and I gained a lot of attitude meters in short time. The view to the Wettersteiggebirge and Alpspitze and Zugspitze is fantastic.&lt;/li&gt;
+  &lt;li&gt;The steep trail rewards you with a great view.&lt;/li&gt;
+  &lt;li&gt;I reached the summit of the &lt;strong&gt;Hoher Fricken&lt;/strong&gt; at 11:40am.&lt;/li&gt;
+  &lt;li&gt;So, the ascent took me  2h 40mins.&lt;/li&gt;
+  &lt;li&gt;After a break and a sandwich I started to hike down from the Fricken-summit to the east in the direction of the Bischof-summit. I followed a nice and easy ridge trail. At the lowest point of the saddle are signs showing the way to the Bischof and to the Oberauer-Steig.  (This is the steig I will take down later).&lt;/li&gt;
+  &lt;li&gt;I followed the sign to the Bischof and it started to go uphill again. Its still a nice and not too difficult path up to the Bischof.&lt;/li&gt;
+  &lt;li&gt;I reached the &lt;strong&gt;Bischof&lt;/strong&gt; Summit at 12:50 am.&lt;/li&gt;
+  &lt;li&gt;From there you have a beautiful view back to the Hoher Fricken, Wank, and the Wetterstein. In the other direction, north-east, you can see the other summits the Estergebirge, e.g. Henpeck, Kareck, oberer Rißkopf, and Krottenkopf.&lt;/li&gt;
+  &lt;li&gt;After a short break I hiked back down again. 1) you have the option to decent the Bischof from the same way I cam up, reach the saddle again between Bischof and Fricken and follow the sign down via &lt;strong&gt;Oberauer-Steig&lt;/strong&gt;. That’s the way I took. 2) Alternativly, you can hike down the very steep Northside of the Bischof. So you hike down on loose stones and gravel until you reach a fork. You don’t take the right path that leads to the Weilheimer Hütte. Instead you go left, west, in the direction of the Fricken. When you reach the Oberauer-Steig take the path down.&lt;/li&gt;
+  &lt;li&gt;The Oberauer-Steig is recommended as the path down, as this trail is not quite as steep as the trail we took up.&lt;/li&gt;
+  &lt;li&gt;Around 16:00 I was back down at the parking area.&lt;/li&gt;
+  &lt;li&gt;Because it was such a hot day, I cooled my feet in the Loisach. Highly recommend.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The hike is very steep an requires endurance. However, the steep trail rewards with a fantastic view from the summit.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;In total I hiked from 9:00am to 16:00 with 5:15h walking time. Distance: 16.25km. Total elevation: 1.504m. Highest point: 2.031m. Lowest Point: 587m&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;or&quot;&gt;OR&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.alpenvereinaktiv.com/de/tour/farchant-hoher-fricken-bischof-oberauer-steig-farchant/177925701/?share=~znhruplk%244osg3avn#dm=1&quot;&gt;&lt;img src=&quot;/hikingblog.github.io/assets/img/hiking/Hoher-Fricken-09.07.20.png&quot; alt=&quot;tour-map&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;read-more-on-hoehenrauschde-or-on-tourentippcom&quot;&gt;Read more on &lt;a href=&quot;https://www.hoehenrausch.de/berge/hoher-fricken/&quot;&gt;hoehenrausch.de&lt;/a&gt; or on &lt;a href=&quot;https://www.tourentipp.com/de/touren/Hoher-Fricken-Bergtour_1445.html&quot;&gt;tourentipp.com&lt;/a&gt;&lt;/h4&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Ammergauer Alpen</summary></entry><entry><title type="html">test-post4</title><link href="http://localhost:4000/jekyll/update/2020/07/11/testpage4" rel="alternate" type="text/html" title="test-post4" /><published>2020-07-11T12:28:47+02:00</published><updated>2020-07-11T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/07/11/testpage4</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/07/11/testpage4">&lt;p&gt;&lt;img src=&quot;/assets/img/hiking/hiking-img-2.jpg&quot; alt=&quot;hiking-img-2&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"></summary></entry><entry><title type="html">test-post 3</title><link href="http://localhost:4000/jekyll/update/2020/07/10/testpage3" rel="alternate" type="text/html" title="test-post 3" /><published>2020-07-10T12:28:47+02:00</published><updated>2020-07-10T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/07/10/testpage3</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/07/10/testpage3">&lt;h1 id=&quot;test-post-3&quot;&gt;test post 3&lt;/h1&gt;
+
+&lt;p&gt;This test post tests navigation and the “simple” layout.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">test post 3</summary></entry><entry><title type="html">test-post2</title><link href="http://localhost:4000/jekyll/update/2020/07/10/testpage2" rel="alternate" type="text/html" title="test-post2" /><published>2020-07-10T12:28:47+02:00</published><updated>2020-07-10T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/07/10/testpage2</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/07/10/testpage2">&lt;p&gt;&lt;img src=&quot;/assets/img/lauren-hiking-1.png&quot; alt=&quot;Lauren-Hiking&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;OR&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/hiking/Wetterstein-jul.JPG&quot; alt=&quot;Wetterstein&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;OR&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/hiking/hiking-img-2.jpg&quot; alt=&quot;hiking-img-2&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"></summary></entry><entry><title type="html">Hoher Fricken (1984 m)</title><link href="http://localhost:4000/jekyll/update/2020/07/02/Hoher-Fricken" rel="alternate" type="text/html" title="Hoher Fricken (1984 m)" /><published>2020-07-02T12:28:47+02:00</published><updated>2020-07-02T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/07/02/Hoher-Fricken</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/07/02/Hoher-Fricken">&lt;h3 id=&quot;estergebierge&quot;&gt;Estergebierge&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.hoehenrausch.de/berge/hoher-fricken/highlight.jpg&quot; alt=&quot;Hoher Fricken&quot; /&gt;&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -48,8 +125,8 @@
       &lt;td style=&quot;text-align: center&quot;&gt;3:00 h&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Vert. m:&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1270 m&lt;/td&gt;
+      &lt;td&gt;Elevation:&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1270 m vert.&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Distance:&lt;/td&gt;
@@ -75,18 +152,15 @@ Approach is possible from Farchant (i.e. Ortsteil Mühldorf) or you could take t
 From Farchant/Mühldorf follow a steep trail through the forrest to the Esterbergalm. Follow the direction to Frickenkarl. Follow the wide ridge to the summit.&lt;/p&gt;
 
 &lt;hr /&gt;
-
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h2 id=&quot;logbook&quot;&gt;Logbook:&lt;/h2&gt;
 
-&lt;h3 id=&quot;hike-09072020-hoher-fricken--bischof-&quot;&gt;Hike 09.07.2020 [Hoher Fricken &amp;amp; Bischof ]&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Route:&lt;/strong&gt;  Farchat - Kuhflucht - Hoher Fricken - Bischof - Oberausteig - Farchat&lt;/p&gt;
+&lt;h3 id=&quot;hike-09072020---hoher-fricken--bischof&quot;&gt;Hike 09.07.2020 - Hoher Fricken &amp;amp; Bischof&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Route:&lt;/strong&gt;  Farchant - Kuhflucht - Hoher Fricken - Bischof - Oberausteig - Farchant&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/assets/docs/hoher-fricken-bischof-tour-details.pdf&quot;&gt;Hoher-Fricken-Bischof Tour Details&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Map &amp;amp; Route Summary:&lt;/strong&gt;   &lt;a href=&quot;/hikingblog.github.io/assets/docs/hoher-fricken-bischof-tour-details.pdf&quot;&gt;1)Hoher-Fricken-pdf&lt;/a&gt; or &lt;a href=&quot;https://www.alpenvereinaktiv.com/de/tour/farchant-hoher-fricken-bischof-oberauer-steig-farchant/177925701/?share=~znhruplk%244osg3avn#dm=1&quot;&gt;2) online at alpenvereinaktiv&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.alpenvereinaktiv.com/de/tour/farchant-hoher-fricken-bischof-oberauer-steig-farchant/177925701/?share=%7Eznhruplk%244osg3avn&quot;&gt;map on alpenvereinaktiv&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/hikingblog.github.io/assets/docs/hoher-fricken-bischof-tour-details.pdf&quot;&gt;details pdf&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;I parked at the Kuhflucht parking area at the end fo the &lt;strong&gt;‘Kuhfluchtweg’&lt;/strong&gt; in Farchant, Ortsteil Mühldorf. Address for Car navigation is Farchant, Kuhfluchtweg.&lt;/li&gt;
   &lt;li&gt;I started hiking at 9:00am.&lt;/li&gt;
@@ -105,123 +179,62 @@ From Farchant/Mühldorf follow a steep trail through the forrest to the Esterber
   &lt;li&gt;The Oberauer-Steig is recommended as the path down, as this trail is not quite as steep as the trail we took up.&lt;/li&gt;
   &lt;li&gt;Around 16:00 I was back down at the parking area.&lt;/li&gt;
   &lt;li&gt;Because it was such a hot day, I cooled my feet in the Loisach. Highly recommend.&lt;/li&gt;
-  &lt;li&gt;The hike is very steep an requires endurance. However, the steep trail rewards with a fantastic view fomr the summit.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The hike is very steep an requires endurance. However, the steep trail rewards with a fantastic view from the summit.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;In total I hiked from 9:00am to 16:00 with 5:15h walking time. Distance: 16.25km. Total elevation: 1.504m. Highest point: 2.031m. Lowest Point: 587m&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;—&amp;gt; In total I hiked from 9:00am to 16:00 with 5:15h walking time. Distance: 16.25km. Total elevation: 1.504m. Highest point: 2.031m. Lowest Point: 587m&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/hiking/Hoher-Fricken-09.07.20.png&quot; alt=&quot;Hoher-Fricken-Bischof-Tour&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.alpenvereinaktiv.com/de/tour/farchant-hoher-fricken-bischof-oberauer-steig-farchant/177925701/?share=~znhruplk%244osg3avn#dm=1&quot;&gt;&lt;img src=&quot;/hikingblog.github.io/assets/img/hiking/Hoher-Fricken-09.07.20.png&quot; alt=&quot;tour-map&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h4 id=&quot;read-more-on-hoehenrauschde-or-on-tourentippcom&quot;&gt;Read more on &lt;a href=&quot;https://www.hoehenrausch.de/berge/hoher-fricken/&quot;&gt;hoehenrausch.de&lt;/a&gt; or on &lt;a href=&quot;https://www.tourentipp.com/de/touren/Hoher-Fricken-Bergtour_1445.html&quot;&gt;tourentipp.com&lt;/a&gt;&lt;/h4&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Hoher Fricken (1984 m) Estergebierge</summary></entry><entry><title type="html">Ettaler Manndl (1633m)</title><link href="http://localhost:4000/jekyll/update/2020/06/28/Ettaler-Manndl" rel="alternate" type="text/html" title="Ettaler Manndl (1633m)" /><published>2020-06-28T12:28:47+02:00</published><updated>2020-06-28T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/06/28/Ettaler-Manndl</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/28/Ettaler-Manndl">&lt;p&gt;&lt;img src=&quot;/assets/img/hiking/Ettalermandl-2.jpeg&quot; alt=&quot;Ettaler Manndl img1&quot; /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;read-more-on-hoehenrauschde-or-on-tourentippcom&quot;&gt;Read more on &lt;a href=&quot;https://www.hoehenrausch.de/berge/hoher-fricken/&quot;&gt;hoehenrausch.de&lt;/a&gt; or on &lt;a href=&quot;https://www.tourentipp.com/de/touren/Hoher-Fricken-Bergtour_1445.html&quot;&gt;tourentipp.com&lt;/a&gt;&lt;/h4&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Estergebierge</summary></entry><entry><title type="html">Ettaler Manndl (1633m)</title><link href="http://localhost:4000/jekyll/update/2020/06/28/Ettaler-Manndl" rel="alternate" type="text/html" title="Ettaler Manndl (1633m)" /><published>2020-06-28T12:28:47+02:00</published><updated>2020-06-28T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/06/28/Ettaler-Manndl</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/28/Ettaler-Manndl">&lt;h3 id=&quot;ammergauer-alpen&quot;&gt;Ammergauer Alpen&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/hiking/Ettalermandl-2.jpeg&quot; alt=&quot;Ettaler Manndl img1&quot; /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Details&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Type:&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Via-Feratta: A/B&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ascent:&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2:00 h&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Descent:&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1:30 h&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Elevation:&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;780 m vert.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Season:&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;End of May - November.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;p&gt;“Das Ettaler Manndl (1633m) ist ein kleiner Felskopf in den Ammergauer Alpen, der nicht nur bei Münchner Wanderern äußerste Beliebtheit genießt. Die Wanderung ist bis unter den felsigen Gipfelaufbau einfach, nur auf die letzten Meter zum Gipfelkreuz führt ein leichter – aber nicht zu unterschätzender – Klettersteig (A/B). Durch die vielen Besteigungen ist der Fels extrem abgespeckt, weshalb man bei feuchten Verhältnissen besser auf eine Besteigung verzichtet. Vom Gipfel bietet sich eine eindrucksvolle Rundumsicht in das Wettersteingebirge und das bayerische Voralpenland mit seinen zahlreichen Seen! Klettersteig-Tourentipp (nicht unterschätzen!) auch für Familien! (this text is from the BergTour online page. REPLACE WITH OWN TEXT)&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/hiking/Ettalermandl-1.jpeg&quot; alt=&quot;Ettaler Manndl img2&quot; /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;link-to-online-description&quot;&gt;&lt;a href=&quot;https://www.bergtour-online.de/bergtouren/klettersteige/ettaler-manndl/&quot;&gt;Link to Online Description&lt;/a&gt;&lt;/h4&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"></summary></entry><entry><title type="html">Hoher Fricken</title><link href="http://localhost:4000/jekyll/update/2020/06/23/Hoher-Fricken" rel="alternate" type="text/html" title="Hoher Fricken" /><published>2020-06-23T12:28:47+02:00</published><updated>2020-06-23T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/06/23/Hoher-Fricken</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/23/Hoher-Fricken">&lt;h2 id=&quot;hoher-fricken-1984-m&quot;&gt;Hoher Fricken (1984 m)&lt;/h2&gt;
-&lt;h3 id=&quot;estergebierge&quot;&gt;Estergebierge&lt;/h3&gt;
+&lt;h4 id=&quot;read-more-on-bergtour-onlinede&quot;&gt;Read more on &lt;a href=&quot;https://www.bergtour-online.de/bergtouren/klettersteige/ettaler-manndl/&quot;&gt;bergtour-online.de&lt;/a&gt;&lt;/h4&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Ammergauer Alpen</summary></entry><entry><title type="html">Teufelstättkopf</title><link href="http://localhost:4000/jekyll/update/2020/06/23/Teufelstaettkopf" rel="alternate" type="text/html" title="Teufelstättkopf" /><published>2020-06-23T12:28:47+02:00</published><updated>2020-06-23T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/06/23/Teufelstaettkopf</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/23/Teufelstaettkopf">&lt;h1 id=&quot;teufelstättkopf-1758m--pürschling-1566m&quot;&gt;Teufelstättkopf (1758m) &amp;amp; Pürschling (1566m)&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.hoehenrausch.de/berge/hoher-fricken/highlight.jpg&quot; alt=&quot;Hoher Fricken&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/hiking/hiking-teufelstaettkopf-1.jpg&quot; alt=&quot;teufelstaettkopf Gipfel&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/wank-1.jpeg&quot; alt=&quot;Mountains&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;“Der Teufelstättenkopf (1758m) nahe Unterammergau ist ein sehr schöner Aussichtsgipfel, der über leichte Forstwege und mäßig steilen Steig erreichbar ist. Nur kurz vor dem Gipfel muss eine leichte, seilgesicherte Kletterei “bewältigt” werden. Oben wird man mit super Aussicht belohnt. Und auf dem Rückweg wartet nach einer Hütteneinkehr Nahe des Gipfels (Albert-Schuster-Haus – “Pürschling-Haus”, 1554m) und dem Pürschling (1566m) sogar noch eine sehr schöne Klammwanderung (“Schleifmühlenklamm“). Zudem gibt es eine lustige Sommerrodelbahn nicht weit vom Parkplatz! Tipp, auch für die ganze Familie!” (this text is from the BergTour online page. REPLACE WITH OWN TEXT)&lt;/p&gt;
 
-&lt;p&gt;Details:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Ascent:  3:30 h&lt;/li&gt;
-  &lt;li&gt;Descent:  3:00 h&lt;/li&gt;
-  &lt;li&gt;Altitude difference: 1270 m vert.&lt;/li&gt;
-  &lt;li&gt;Distance: 13,0 km&lt;/li&gt;
-  &lt;li&gt;Season: End of May - November.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;or&quot;&gt;OR&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Details&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ascent:&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3:30 h&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Descent:&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3:00 h&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Vert. m:&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1270 m&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Distance:&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;13,0 km&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Season:&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;End of May - November.&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;strong&gt;Character:&lt;/strong&gt; of medium difficulty. The ascent is partly very steep and requires experience (i.e.Trittsicherheit).
-An additional highlight of this tour are the &lt;em&gt;Kuhfluchtwasserfälle&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Drive to base:&lt;/strong&gt;
-To Farchant; direction Bahnhofsstraße, then onto Mühldörflstraße. At the end of the road take a left to Kuhfluchtweg. Follow the road to the parking area.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Approach:&lt;/strong&gt;
-Approach is possible from Farchant (i.e. Ortsteil Mühldorf) or you could take the Wank-lift to the Wank and hike down to the Esterbergalm.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hike:&lt;/strong&gt;
-From Farchant/Mühldorf follow a steep trail through the forrest to the Esterbergalm. Follow the direction to Frickenkarl. Follow the wide ridge to the summit.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;logbook&quot;&gt;Logbook:&lt;/h2&gt;
-
-&lt;h3 id=&quot;hike-09072020-hoher-fricken--bischof-&quot;&gt;Hike 09.07.2020 [Hoher Fricken &amp;amp; Bischof ]&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Route:&lt;/strong&gt;  Farchat - Kuhflucht - Hoher Fricken - Bischof - Oberausteig - Farchat&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/docs/hoher-fricken-bischof-tour-details.pdf&quot;&gt;Hoher-Fricken-Bischof Tour Details&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.alpenvereinaktiv.com/de/tour/farchant-hoher-fricken-bischof-oberauer-steig-farchant/177925701/?share=%7Eznhruplk%244osg3avn&quot;&gt;map on alpenvereinaktiv&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;hikingblog.github.io/assets/docs/hoher-fricken-bischof-tour-details.pdf&quot;&gt;details pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;I parked at the Kuhflucht parking area at the end fo the &lt;strong&gt;‘Kuhfluchtweg’&lt;/strong&gt; in Farchant, Ortsteil Mühldorf. Address for Car navigation is Farchant, Kuhfluchtweg.&lt;/li&gt;
-  &lt;li&gt;I started hiking at 9:00am.&lt;/li&gt;
-  &lt;li&gt;It was a very hot day. Luckily the majority of the ascent is in the forest and therefore in the shade. Nevertheless when I reached the Latschen (i.e. alpine pine bushes), it got really hot, as the bushes keep the heat and reflect it.&lt;/li&gt;
-  &lt;li&gt;It was quiet and a lonely hike. Not many hike from Farchant the very steep trail up to the Hoher Fricken. (You can alternatively take the Wank-Bahn and hike from the Wank summit on a ridge path to the Hoher Fricken).&lt;/li&gt;
-  &lt;li&gt;From the parking area I walked in the direction of the ‘Kuhfluchtwasserfälle’. Then I followed the &lt;strong&gt;‘Königsweg’&lt;/strong&gt;. I reached and crossed a bridge an a trail starts and goes very steeply up through the forest.&lt;/li&gt;
-  &lt;li&gt;The trail is indeed very steep and I gained a lot of attitude meters in short time. The view to the Wettersteiggebirge and Alpspitze and Zugspitze is fantastic.&lt;/li&gt;
-  &lt;li&gt;The steep trail rewards you with a great view.&lt;/li&gt;
-  &lt;li&gt;I reached the summit of the &lt;strong&gt;Hoher Fricken&lt;/strong&gt; at 11:40am.&lt;/li&gt;
-  &lt;li&gt;So, the ascent took me  2h 40mins.&lt;/li&gt;
-  &lt;li&gt;After a break and a sandwich I started to hike down from the Fricken-summit to the east in the direction of the Bischof-summit. I followed a nice and easy ridge trail. At the lowest point of the saddle are signs showing the way to the Bischof and to the Oberauer-Steig.  (This is the steig I will take down later).&lt;/li&gt;
-  &lt;li&gt;I followed the sign to the Bischof and it started to go uphill again. Its still a nice and not too difficult path up to the Bischof.&lt;/li&gt;
-  &lt;li&gt;I reached the &lt;strong&gt;Bischof&lt;/strong&gt; Summit at 12:50 am.&lt;/li&gt;
-  &lt;li&gt;From there you have a beautiful view back to the Hoher Fricken, Wank, and the Wetterstein. In the other direction, north-east, you can see the other summits the Estergebirge, e.g. Henpeck, Kareck, oberer Rißkopf, and Krottenkopf.&lt;/li&gt;
-  &lt;li&gt;After a short break I hiked back down again. 1) you have the option to decent the Bischof from the same way I cam up, reach the saddle again between Bischof and Fricken and follow the sign down via &lt;strong&gt;Oberauer-Steig&lt;/strong&gt;. That’s the way I took. 2) Alternativly, you can hike down the very steep Northside of the Bischof. So you hike down on loose stones and gravel until you reach a fork. You don’t take the right path that leads to the Weilheimer Hütte. Instead you go left, west, in the direction of the Fricken. When you reach the Oberauer-Steig take the path down.&lt;/li&gt;
-  &lt;li&gt;The Oberauer-Steig is recommended as the path down, as this trail is not quite as steep as the trail we took up.&lt;/li&gt;
-  &lt;li&gt;Around 16:00 I was back down at the parking area.&lt;/li&gt;
-  &lt;li&gt;Because it was such a hot day, I cooled my feet in the Loisach. Highly recommend.&lt;/li&gt;
-  &lt;li&gt;The hike is very steep an requires endurance. However, the steep trail rewards with a fantastic view fomr the summit.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;—&amp;gt; In total I hiked from 9:00am to 16:00 with 5:15h walking time. Distance: 16.25km. Total elevation: 1.504m. Highest point: 2.031m. Lowest Point: 587m&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/hiking/Hoher-Fricken-09.07.20.png&quot; alt=&quot;Hoher-Fricken-Bischof-Tour&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&quot;read-more-on-hoehenrauschde-or-on-tourentippcom&quot;&gt;Read more on &lt;a href=&quot;https://www.hoehenrausch.de/berge/hoher-fricken/&quot;&gt;hoehenrausch.de&lt;/a&gt; or on &lt;a href=&quot;https://www.tourentipp.com/de/touren/Hoher-Fricken-Bergtour_1445.html&quot;&gt;tourentipp.com&lt;/a&gt;&lt;/h4&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Hoher Fricken (1984 m) Estergebierge</summary></entry><entry><title type="html">Krottenkopf</title><link href="http://localhost:4000/jekyll/update/2020/06/23/Krottenkopf" rel="alternate" type="text/html" title="Krottenkopf" /><published>2020-06-23T12:28:47+02:00</published><updated>2020-06-23T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/06/23/Krottenkopf</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/23/Krottenkopf">&lt;h1 id=&quot;krottenkopf-2086-m&quot;&gt;Krottenkopf (2086 m)&lt;/h1&gt;
+&lt;h4 id=&quot;read-more-on-bergtour-online&quot;&gt;&lt;a href=&quot;https://www.bergtour-online.de/bergtouren/bergwanderungen/mittel/teufelstaettkopf/&quot;&gt;Read more on Bergtour-Online&lt;/a&gt;&lt;/h4&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Teufelstättkopf (1758m) &amp;amp; Pürschling (1566m)</summary></entry><entry><title type="html">Krottenkopf</title><link href="http://localhost:4000/jekyll/update/2020/06/23/Krottenkopf" rel="alternate" type="text/html" title="Krottenkopf" /><published>2020-06-23T12:28:47+02:00</published><updated>2020-06-23T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/06/23/Krottenkopf</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/23/Krottenkopf">&lt;h1 id=&quot;krottenkopf-2086-m&quot;&gt;Krottenkopf (2086 m)&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://www.bergtour-online.de/wp-content/uploads/2015/08/Krottenkopf-Titel-1.jpg&quot; alt=&quot;Krottenkopf&quot; /&gt;&lt;/p&gt;
 
@@ -245,13 +258,7 @@ It is possible to start from 1)Oberau, 2)Farchant, or 3) Eschenlohe.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Hike:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;read-more-on-bergtour-online&quot;&gt;&lt;a href=&quot;https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/krottenkopf/&quot;&gt;Read more on Bergtour-Online&lt;/a&gt;&lt;/h4&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Krottenkopf (2086 m)</summary></entry><entry><title type="html">Teufelstättkopf</title><link href="http://localhost:4000/jekyll/update/2020/06/23/Teufelstaettkopf" rel="alternate" type="text/html" title="Teufelstättkopf" /><published>2020-06-23T12:28:47+02:00</published><updated>2020-06-23T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/06/23/Teufelstaettkopf</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/23/Teufelstaettkopf">&lt;h1 id=&quot;teufelstättkopf-1758m--pürschling-1566m&quot;&gt;Teufelstättkopf (1758m) &amp;amp; Pürschling (1566m)&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/hiking/hiking-teufelstaettkopf-1.jpg&quot; alt=&quot;teufelstaettkopf Gipfel&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;“Der Teufelstättenkopf (1758m) nahe Unterammergau ist ein sehr schöner Aussichtsgipfel, der über leichte Forstwege und mäßig steilen Steig erreichbar ist. Nur kurz vor dem Gipfel muss eine leichte, seilgesicherte Kletterei “bewältigt” werden. Oben wird man mit super Aussicht belohnt. Und auf dem Rückweg wartet nach einer Hütteneinkehr Nahe des Gipfels (Albert-Schuster-Haus – “Pürschling-Haus”, 1554m) und dem Pürschling (1566m) sogar noch eine sehr schöne Klammwanderung (“Schleifmühlenklamm“). Zudem gibt es eine lustige Sommerrodelbahn nicht weit vom Parkplatz! Tipp, auch für die ganze Familie!” (this text is from the BergTour online page. REPLACE WITH OWN TEXT)&lt;/p&gt;
-
-&lt;h4 id=&quot;read-more-on-bergtour-online&quot;&gt;&lt;a href=&quot;https://www.bergtour-online.de/bergtouren/bergwanderungen/mittel/teufelstaettkopf/&quot;&gt;Read more on Bergtour-Online&lt;/a&gt;&lt;/h4&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Teufelstättkopf (1758m) &amp;amp; Pürschling (1566m)</summary></entry><entry><title type="html">Hiking &amp;amp; Mountaineering</title><link href="http://localhost:4000/jekyll/update/2020/06/22/Hiking.html" rel="alternate" type="text/html" title="Hiking &amp;amp; Mountaineering" /><published>2020-06-22T12:28:47+02:00</published><updated>2020-06-22T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/06/22/Hiking</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/22/Hiking.html">&lt;p&gt;This is a list of my favourite mountain hikes and mountaineering routes grouped by regions.&lt;/p&gt;
+&lt;h4 id=&quot;read-more-on-bergtour-online&quot;&gt;&lt;a href=&quot;https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/krottenkopf/&quot;&gt;Read more on Bergtour-Online&lt;/a&gt;&lt;/h4&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Krottenkopf (2086 m)</summary></entry><entry><title type="html">Hiking &amp;amp; Mountaineering</title><link href="http://localhost:4000/jekyll/update/2020/06/22/Hiking.html" rel="alternate" type="text/html" title="Hiking &amp;amp; Mountaineering" /><published>2020-06-22T12:28:47+02:00</published><updated>2020-06-22T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/06/22/Hiking</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/22/Hiking.html">&lt;p&gt;This is a list of my favourite mountain hikes and mountaineering routes grouped by regions.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://a.travel-assets.com/findyours-php/viewfinder/images/res70/32000/32826-Garmisch-Partenkirchen.jpg&quot; alt=&quot;Mountains&quot; /&gt;&lt;/p&gt;
 
@@ -309,16 +316,7 @@ It is possible to start from 1)Oberau, 2)Farchant, or 3) Eschenlohe.&lt;/p&gt;
   &lt;li&gt;Lamsenspitze (2508m) - &lt;a href=&quot;https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/lamsenspitze/&quot;&gt;online description&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Torscharte &amp;amp; Torkopf (2014m) - &lt;a href=&quot;https://www.bergtour-online.de/bergtouren/bergwanderungen/mittel/torkopf-karwendel/&quot;&gt;online description&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Fleischbank, Hölzelstalljoch &amp;amp; Grasbergjoch (2026m) - &lt;a href=&quot;https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/wanderung-fleischbank-hoelzelstalljoch-grasbergjoch-im-karwendel/&quot;&gt;online description&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">This is a list of my favourite mountain hikes and mountaineering routes grouped by regions.</summary></entry><entry><title type="html">Ski Touring</title><link href="http://localhost:4000/jekyll/update/2020/06/day/Ski-touring" rel="alternate" type="text/html" title="Ski Touring" /><published>2020-06-19T12:28:47+02:00</published><updated>2020-06-19T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/06/day/Ski-touring</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/day/Ski-touring">&lt;!--insert a differetn picture here:--&gt;
-&lt;!--
-![Mountains](https://a.travel-assets.com/findyours-php/viewfinder/images/res70/32000/32826-Garmisch-Partenkirchen.jpg)
---&gt;
-
-&lt;h2 id=&quot;ski-touring&quot;&gt;Ski Touring:&lt;/h2&gt;
-
-&lt;h3 id=&quot;in-sellrain&quot;&gt;In Sellrain&lt;/h3&gt;
-
-&lt;p&gt;Lampsenspitze (2875 m) &lt;a href=&quot;https://www.tourentipp.com/de/touren/Lampsenspitze-Skitour-Sellrain_124.html&quot;&gt;https://www.tourentipp.com/de/touren/Lampsenspitze-Skitour-Sellrain_124.html&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"></summary></entry><entry><title type="html">Via Ferrata</title><link href="http://localhost:4000/jekyll/update/2020/06/19/Via-ferrata.html" rel="alternate" type="text/html" title="Via Ferrata" /><published>2020-06-19T12:28:47+02:00</published><updated>2020-06-19T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/06/19/Via-ferrata</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/19/Via-ferrata.html">&lt;!--insert a differetn picture here:--&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">This is a list of my favourite mountain hikes and mountaineering routes grouped by regions.</summary></entry><entry><title type="html">Via Ferrata</title><link href="http://localhost:4000/jekyll/update/2020/06/19/Via-ferrata.html" rel="alternate" type="text/html" title="Via Ferrata" /><published>2020-06-19T12:28:47+02:00</published><updated>2020-06-19T12:28:47+02:00</updated><id>http://localhost:4000/jekyll/update/2020/06/19/Via-ferrata</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/19/Via-ferrata.html">&lt;!--insert a differetn picture here:--&gt;
 &lt;!--
 ![Mountains](https://a.travel-assets.com/findyours-php/viewfinder/images/res70/32000/32826-Garmisch-Partenkirchen.jpg)
 --&gt;

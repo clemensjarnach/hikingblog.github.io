@@ -7,10 +7,7 @@ layout: home
 
 ![Lauren-Hiking](/assets/img/lauren-hiking-1.png)
 
-OR
+## Experience the Alps with my favourite routes
+Here you can find information to my favourite hikes, mountaineering routes, climbs, ski-tours and more. The Alps provide ample opportunity to be active and enjoy nature in any season.
 
-![Wetterstein](/assets/img/hiking/Wetterstein-jul.JPG)
-
-OR
-
-![hiking-img-2](/assets/img/hiking/hiking-img-2.jpg)
+Some of the more recent posts you can find below:

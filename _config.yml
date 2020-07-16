@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mountaineering with Clemens J. Fex
+title: Mountaineering with Clemens
 email: jarnach@hotmail.de
 description: >- # this means to ignore newlines until "baseurl:"
   This is a list of my favourite mountain hikes, climbs, scrambles, ski-tours, and places.

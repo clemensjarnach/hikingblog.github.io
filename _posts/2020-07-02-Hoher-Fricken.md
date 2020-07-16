@@ -1,33 +1,21 @@
 ---
 layout: post
-title:  "Hoher Fricken test"
+title:  "Hoher Fricken (1984 m)"
 date:   2020-07-02 12:28:47 +0200
 categories: jekyll update
 permalink: /:categories/:year/:month/:day/:title
 ---
-
-
-## Hoher Fricken (1984 m)
 ### Estergebierge
-
 ![Hoher Fricken](https://www.hoehenrausch.de/berge/hoher-fricken/highlight.jpg)
 
-![Mountains](/assets/wank-1.jpeg)
 
-Details:
--   Ascent:  3:30 h
--   Descent:  3:00 h
--   Altitude difference: 1270 m vert.
--   Distance: 13,0 km
--   Season: End of May - November.
 
-# OR
 
 | Details       |               |
 | ------------- |:-------------:|
 | Ascent:       | 3:30 h        |
 | Descent:      | 3:00 h        |
-| Vert. m:      | 1270 m        |
+| Elevation:    | 1270 m vert.  |
 | Distance:     | 13,0 km       |
 | Season:       |  End of May - November. |
 
@@ -46,20 +34,16 @@ From Farchant/Mühldorf follow a steep trail through the forrest to the Esterber
 
 
 -------
-
+<br>
 ## Logbook:
 
-### Hike 09.07.2020 [Hoher Fricken & Bischof ]
+### Hike 09.07.2020 - Hoher Fricken & Bischof
 **Route:**  Farchant - Kuhflucht - Hoher Fricken - Bischof - Oberausteig - Farchant
 
-[Hoher-Fricken-Bischof Tour Details](/assets/docs/hoher-fricken-bischof-tour-details.pdf)
+**Map & Route Summary:**   [1)Hoher-Fricken-pdf](/hikingblog.github.io/assets/docs/hoher-fricken-bischof-tour-details.pdf) or [2) online at alpenvereinaktiv](https://www.alpenvereinaktiv.com/de/tour/farchant-hoher-fricken-bischof-oberauer-steig-farchant/177925701/?share=~znhruplk%244osg3avn#dm=1)
 
-[map on alpenvereinaktiv](https://www.alpenvereinaktiv.com/de/tour/farchant-hoher-fricken-bischof-oberauer-steig-farchant/177925701/?share=%7Eznhruplk%244osg3avn)
 
-[alpenvereinaktiv](https://www.alpenvereinaktiv.com/de/tour/farchant-hoher-fricken-bischof-oberauer-steig-farchant/177925701/?share=~znhruplk%244osg3avn#dm=1)
-
-[details pdf](/hikingblog.github.io/assets/docs/hoher-fricken-bischof-tour-details.pdf)
-
+**Description:**
 - I parked at the Kuhflucht parking area at the end fo the **‘Kuhfluchtweg’** in Farchant, Ortsteil Mühldorf. Address for Car navigation is Farchant, Kuhfluchtweg.
 - I started hiking at 9:00am.
 - It was a very hot day. Luckily the majority of the ascent is in the forest and therefore in the shade. Nevertheless when I reached the Latschen (i.e. alpine pine bushes), it got really hot, as the bushes keep the heat and reflect it.
@@ -79,10 +63,9 @@ From Farchant/Mühldorf follow a steep trail through the forrest to the Esterber
 - Because it was such a hot day, I cooled my feet in the Loisach. Highly recommend.
 - The hike is very steep an requires endurance. However, the steep trail rewards with a fantastic view from the summit.
 
-**—> In total I hiked from 9:00am to 16:00 with 5:15h walking time. Distance: 16.25km. Total elevation: 1.504m. Highest point: 2.031m. Lowest Point: 587m**
+- **In total I hiked from 9:00am to 16:00 with 5:15h walking time. Distance: 16.25km. Total elevation: 1.504m. Highest point: 2.031m. Lowest Point: 587m**
 
-![Hoher-Fricken-Bischof-Tour](/assets/img/hiking/Hoher-Fricken-09.07.20.png)
-![tour-map](/hikingblog.github.io/assets/img/hiking/Hoher-Fricken-09.07.20.png)
+[![tour-map](/hikingblog.github.io/assets/img/hiking/Hoher-Fricken-09.07.20.png)](https://www.alpenvereinaktiv.com/de/tour/farchant-hoher-fricken-bischof-oberauer-steig-farchant/177925701/?share=~znhruplk%244osg3avn#dm=1)
 
 ---
 
