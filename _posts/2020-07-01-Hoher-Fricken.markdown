@@ -12,7 +12,7 @@ permalink: /:categories/:year/:month/:day/:title
 
 ![Hoher Fricken](https://www.hoehenrausch.de/berge/hoher-fricken/highlight.jpg)
 
-![Mountains](/assets/img/hiking/wank-1.jpeg)
+![Mountains](/assets/wank-1.jpeg)
 
 Details:
 -   Ascent:  3:30 h
@@ -32,7 +32,7 @@ Details:
 | Season:       |  End of May - November. |
 
 
-**Charakter:** of medium difficulty. The ascent is partly very steep and requires experience (i.e.Trittsicherheit).
+**Character:** of medium difficulty. The ascent is partly very steep and requires experience (i.e.Trittsicherheit).
 An additional highlight of this tour are the *Kuhfluchtwasserfälle*.
 
 **Drive to base:**
@@ -49,7 +49,7 @@ From Farchant/Mühldorf follow a steep trail through the forrest to the Esterber
 
 ## Logbook:
 
-### Hike 09.10.20 [Hoher Fricken & Bischof ]
+### Hike 09.07.2020 [Hoher Fricken & Bischof ]
 **Route:**  Farchat - Kuhflucht - Hoher Fricken - Bischof - Oberausteig - Farchat
 
 [Hoher-Fricken-Bischof Tour Details](/assets/docs/hoher-fricken-bischof-tour-details.pdf)
