@@ -80,7 +80,7 @@ From Farchant/Mühldorf follow a steep trail through the forrest to the Esterber
 **—> In total I hiked from 9:00am to 16:00 with 5:15h walking time. Distance: 16.25km. Total elevation: 1.504m. Highest point: 2.031m. Lowest Point: 587m**
 
 ![Hoher-Fricken-Bischof-Tour](/assets/img/hiking/Hoher-Fricken-09.07.20.png)
-
+![tour-map](/hikingblog.github.io/assets/img/hiking/Hoher-Fricken-09.07.20.png)
 
 ---
 
