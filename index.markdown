@@ -7,6 +7,8 @@ layout: home
 
 ![Lauren-Hiking](/assets/img/lauren-hiking-1.png)
 
+OR
+
 ![Wetterstein](/assets/img/hiking/Wetterstein-jul.JPG)
 
 OR

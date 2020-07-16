@@ -1,26 +1,17 @@
 ---
-layout: post
-title:  "test-post"
+layout: home
+title:  "test-post2"
 date:   2020-07-10 12:28:47 +0200
 categories: jekyll update
 permalink: /:categories/:year/:month/:day/:title
 ---
 
-# test _posts
-![testimg](/assets/img/hiking/hiking-ettaler-mandl-1.jpeg)
+![Lauren-Hiking](/assets/img/lauren-hiking-1.png)
 
-a buhc o text in all kinds of ways
+OR
 
--ljfn
--lgna
--ljfa
+![Wetterstein](/assets/img/hiking/Wetterstein-jul.JPG)
 
+OR
 
-some links:
-
-
-[contactlink](https://clemjar.github.io/hikingblog.github.io/contact/)
-
-
-
-[ettalmandl](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/28/Ettaler-Manndl)
+![hiking-img-2](/assets/img/hiking/hiking-img-2.jpg)
