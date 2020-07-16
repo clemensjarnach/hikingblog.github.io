@@ -6,7 +6,7 @@ categories: jekyll update
 permalink: /:categories/:year/:month/:day/:title
 ---
 ### Ammergauer Alpen
-![Große-Klammspitze-2](/assets/img/hiking/Große-Klammspitze-2.jpg)
+![Große-Klammspitze-2](/hikingblog.github.io/assets/img/hiking/Große-Klammspitze-2.jpg)
 
 
 
@@ -36,7 +36,7 @@ The normal route for the descent is the same as the ascent.
 **Huts/Stations:** [Brunnenkopfhütte (1602m)](https://www.dav-bergland.de/brunnenkopfhuette.html), Tel. 0175 / 6540155, End of May to Early October
 
 
-![Große-Klammspitze-1](/assets/img/hiking/Große-Klammspitze-1.jpg)
+![Große-Klammspitze-1](/hikingblog.github.io/assets/img/hiking/Große-Klammspitze-1.jpg)
 
 -------
 <br>
@@ -44,6 +44,8 @@ The normal route for the descent is the same as the ascent.
 
 ### Hike 14.07.2020 - Große Klammspitze & Brunnenkopf
 **Route:**  Parking area Schloss Linderhof (900m) – Brunnenkopfhütte (1602m) – Große Klammspitze (1924m) – Brunnenkopfhütte (1602m) - Brunnenkopf (1718m) - Parking area Schloss Linderhof (900m)
+
+# EVERYTHING BELOW NEEDS MORE EDITING 
 
 **Map & Route Summary:**   [1)Hoher-Fricken-pdf](/hikingblog.github.io/assets/docs/hoher-fricken-bischof-tour-details.pdf) or [2) online at alpenvereinaktiv](https://www.alpenvereinaktiv.com/de/tour/farchant-hoher-fricken-bischof-oberauer-steig-farchant/177925701/?share=~znhruplk%244osg3avn#dm=1)
 

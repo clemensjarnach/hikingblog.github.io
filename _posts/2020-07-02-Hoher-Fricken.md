@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Hoher Fricken (1984 m)"
+title:  "Hoher Fricken (1984m)"
 date:   2020-07-02 12:28:47 +0200
 categories: jekyll update
 permalink: /:categories/:year/:month/:day/:title
 ---
 ### Estergebierge
-![Hoher Fricken](https://www.hoehenrausch.de/berge/hoher-fricken/highlight.jpg)
 
+![Hoher Fricken](https://www.hoehenrausch.de/berge/hoher-fricken/highlight.jpg)
 
 
 
