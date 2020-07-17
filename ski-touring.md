@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ski-touring
+title: Ski-Touring
 permalink: /ski-touring/
 ---
 
