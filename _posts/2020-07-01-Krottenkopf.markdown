@@ -1,24 +1,23 @@
 ---
 layout: post
-title:  "Krottenkopf"
+title:  "Krottenkopf (2086m)"
 date:   2020-06-23 12:28:47 +0200
 categories: jekyll update
 permalink: /:categories/:year/:month/:day/:title
 ---
 
-# Krottenkopf (2086 m)
+### Estergebirge
 
-![Krottenkopf](https://www.bergtour-online.de/wp-content/uploads/2015/08/Krottenkopf-Titel-1.jpg)
+![Krottenkopf](/hikingblog.github.io/assets/img/hiking/Krottenkopf-1.JPG)
 
-**Estergebierge**
 
----
-Ascent:  4:00 h
-Descent:  3:00 h
-Altitude difference: 1400 - 1500 m vert.
-Season: End of June - Oktober.
-Type: Long and difficult mountain hike.
----
+| Details       |               |
+| ------------- |:-------------:|
+| Ascent:       | 4:00 h        |
+| Descent:      | 3:00 h        |
+| Elevation:    | 1400 - 1500 m vert.  |
+| Season:       |  End of May - November. |
+| Type:         |  Long and difficult mountain hike |
 
 **Charakter:** high endurance neccessary due to 1500m vert.
 
@@ -32,6 +31,7 @@ It is possible to start from 1)Oberau, 2)Farchant, or 3) Eschenlohe.
 
 
 **Hike:**
+The Krottenkopf is the highest mountain in the Estergebirge.
 
 
 
@@ -40,8 +40,7 @@ It is possible to start from 1)Oberau, 2)Farchant, or 3) Eschenlohe.
 
 
 
+---
+<br>
 
-
-
-
-#### [Read more on Bergtour-Online](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/krottenkopf/)
+#### Read more on [Bergtour-Online](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/krottenkopf/)

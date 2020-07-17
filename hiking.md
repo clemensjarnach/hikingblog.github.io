@@ -17,15 +17,14 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 - [Teufelstättkopf (1758m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/23/Teufelstaettkopf)
 - Notkarspitze (1889m) -  [online description](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/notkarspitze-wanderung-ettal/)
 - [Kreuzspitze (2185m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/kreuzspitze/)
-- [Große Klammspitze (1924m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/mittel/grosse-klammspitze/)
+- [Große Klammspitze (1924m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/07/14/Große-Klammspitze)
 
 
 
 ### Estergebierge
 
 - Hohe Kiste (1922m)
-- [Hoher Fricken (1940m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/23/Hoher-Fricken)
-- [Link to Hoher Fricken ]({% post_url 2020-07-02-Hoher-Fricken %})
+- [Hoher Fricken (1940m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/07/02/Hoher-Fricken)
 - [Krottenkopf (2086m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/23/Krottenkopf)
 
 

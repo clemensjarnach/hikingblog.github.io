@@ -30,6 +30,7 @@ twitter_username: jekyllrb
 instagram_username: clemensthelemon
 github_username:  clemjar
 
+
 # Build settings
 theme: minima
 plugins:

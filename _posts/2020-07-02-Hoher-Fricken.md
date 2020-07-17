@@ -7,7 +7,7 @@ permalink: /:categories/:year/:month/:day/:title
 ---
 ### Estergebierge
 
-![Hoher Fricken](https://www.hoehenrausch.de/berge/hoher-fricken/highlight.jpg)
+![Hoher Fricken](/hikingblog.github.io/assets/img/hiking/Hoher-Fricken-1.jpg)
 
 
 
