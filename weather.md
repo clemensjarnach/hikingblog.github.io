@@ -3,7 +3,21 @@ layout: page
 title: Weather and Mountaineering
 permalink: /weather/
 ---
+## Mountain-Weather Forecast:
+Latest weather conditions and forecasts for the Alps can be found on the “Alpenverein” (i.e Alpine Club) website:
+[**DAV-Bergwetter**](https://www.alpenverein.de/DAV-Services/Bergwetter/Alpen/#2020-07-20|weatherLayer)
 
+
+## Avalanche Warning and Worcast:
+- [DAV-Lawinenbericht](https://www.alpenverein.de/DAV-Services/Lawinen-Lage/)
+- [Lawinen-Report Tiroler Alpen](https://lawinen.report/bulletin/latest)
+- [Lawinenwarndienst-Bayern](https://www.lawinenwarndienst-bayern.de/res/start_sommer.php)
+- [EAWS - European Avalanche Warning Service](https://www.avalanches.org)
+
+
+---
+<br>
+## Weather in the Mountains Catalogue
 
 ### Inversion, anticyclone, and stable weather
 - A continuing **temperature inversion** at valley vicinity means the mountains stay clear.
