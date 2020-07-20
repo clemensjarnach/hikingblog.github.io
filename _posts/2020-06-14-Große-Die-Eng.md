@@ -26,18 +26,19 @@ Address for car navigation:  Eng, 6215, Austria
 
 **Huts/Stations:**
 - [Die Eng Hotel](https://www.eng.at)
--
+- [Falkenhütte, (1848 m)](https://www.alpenverein.de/DAV-Services/Huettensuche/Falkenhuette/6938561)
+- [Lamsenjochhütte, (1953 m)](https://www.alpenverein.de/DAV-Services/Huettensuche/Lamsenjochhuette/6938631)
+
 
 **Hikes**
-
+- [Gamsjoch  (2452m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/wanderung-gamsjoch/)
+- [Hahnkampl (2082hm)](https://www.bergtour-online.de/bergtouren/bergwanderungen/mittel/hahnkampl/)
+- [Sonnjoch (2457m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/mittel/sonnjoch/)
+- [Kompar (2011m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/mittel/kompar/)
+- [Steinfalk (2347m](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/steinfalk/)
+- [Lamsenspitze (2508m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/lamsenspitze/)
 
 
 -------
 <br>
 ## Logbook:
-
-
-
----
-
-#### Read more on [Bergtour-Online](https://www.bergtour-online.de/bergtouren/bergwanderungen/mittel/grosse-klammspitze/), [hoehenrausch.de](https://www.hoehenrausch.de/berge/klammspitze/), and on [Ammergauer-alpen](https://www.ammergauer-alpen.de/Media/Touren/Bergtour-Grosse-Klammspitze)
