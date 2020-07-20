@@ -18,6 +18,7 @@ permalink: /:categories/:year/:month/:day/:title
 | Descent:      | 1:30 h        |
 | Elevation:    | 780 m vert.  |
 | Season:       |  End of May - November. |
+| Weather Forecast: | [1) wetter.com](https://www.wetter.com/deutschland/ettal/DE0002755.html), 2) [DAV-Bergwetter](https://www.alpenverein.de/DAV-Services/Bergwetter/Allgaeu-Karwendel-Ammergau-Zugspitze-Arlberg)     |
 
 **Drive to base:**
 Address for car navigation: Mandlweg, 82488 Ettal, Deutschland

@@ -5,7 +5,7 @@ permalink: /weather/
 ---
 ## Mountain-Weather Forecast:
 Latest weather conditions and forecasts for the Alps can be found on the “Alpenverein” (i.e Alpine Club) website:
-- [DAV-Bergwetter](https://www.alpenverein.de/DAV-Services/Bergwetter/Alpen/#2020-07-20|weatherLayer)
+- [DAV-Bergwetter](https://www.alpenverein.de/DAV-Services/Bergwetter/Alpen)
 
 
 ## Avalanche Warning / Forecast:

@@ -18,6 +18,7 @@ permalink: /:categories/:year/:month/:day/:title
 | Elevation:    | 1400 - 1500 m vert.  |
 | Season:       |  End of May - November. |
 | Type:         |  Long and difficult mountain hike |
+| Weather Forecast: | [1) wetter.com](https://www.wetter.com/deutschland/oberau/DE0007698.html), 2) [DAV-Bergwetter](https://www.alpenverein.de/DAV-Services/Bergwetter/Allgaeu-Karwendel-Ammergau-Zugspitze-Arlberg)     |
 
 **Charakter:** high endurance neccessary due to 1500m vert.
 

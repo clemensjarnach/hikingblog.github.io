@@ -18,6 +18,7 @@ permalink: /:categories/:year/:month/:day/:title
 | Elevation:    | 1270 m vert.  |
 | Distance:     | 13,0 km       |
 | Season:       |  End of May - November. |
+| Weather Forecast: | [1) wetter.com](https://www.wetter.com/deutschland/farchant/DE0002835.html), 2) [DAV-Bergwetter](https://www.alpenverein.de/DAV-Services/Bergwetter/Allgaeu-Karwendel-Ammergau-Zugspitze-Arlberg) |
 
 
 **Character:** of medium difficulty. The ascent is partly very steep and requires experience (i.e.Trittsicherheit).
