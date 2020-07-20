@@ -20,11 +20,16 @@ permalink: /:categories/:year/:month/:day/:title
 | Season:       |  End of May - Early October |
 | Notes:        | Not recommended after snowfall or strong rainfall|
 | Danger:       | Alpine Environment with Alpine Dangers  |
+| Weather Forecast:   | 1)[wetter.com](https://www.wetter.com/deutschland/linderhof/DE0002755003.html)  2) [DAV-Bergwetter](https://www.alpenverein.de/DAV-Services/Bergwetter/Allgaeu-Karwendel-Ammergau-Zugspitze-Arlberg/#2020-07-20|weatherLayer)|
 
 
 **Route:**  Parking area Schloss Linderhof (900m) – Brunnenkopfhütte (1602m, 1:45h) – Große Klammspitze (1924m, 3:30h) – Descent same as Ascent
 
 **Character:** The Große Klammspitze is an alpine mountaineering route of  medium difficulty (T3). This hike requires experience and a good head for heights.
+
+**Weather Forecast:**
+- [wetter.com](https://www.wetter.com/deutschland/linderhof/DE0002755003.html)
+- [DAV-Bergwetter](https://www.alpenverein.de/DAV-Services/Bergwetter/Allgaeu-Karwendel-Ammergau-Zugspitze-Arlberg/#2020-07-20|weatherLayer)
 
 **Hike:**
 From the Linderhof parking area we follow the signs to **Brunnenkopf**. We follow the signs into the forest and hike on a broad forest path / gravel road. Shortly after we follow another sign and take a right into the forest. After 1h to 1.5h we reach the **Brunnenkopfhütte** which lies at an elevation of 1602m. The path to the hut is very broad, and safe. The hike form the Linderhof parking area to the Brunnenkopfhütte is easy and well suited for families or less experience hikers. Because of that it is also a quote busy route. You will have already a great view from the hut.
@@ -45,7 +50,7 @@ The normal route for the descent is the same as the ascent.
 ### Hike 14.07.2020 - Große Klammspitze & Brunnenkopf
 **Route:**  Parking area Schloss Linderhof (900m) – Brunnenkopfhütte (1602m) – Große Klammspitze (1924m) – Brunnenkopfhütte (1602m) - Brunnenkopf (1718m) - Parking area Schloss Linderhof (900m)
 
-# EVERYTHING BELOW NEEDS MORE EDITING 
+# EVERYTHING BELOW NEEDS MORE EDITING
 
 **Map & Route Summary:**   [1)Hoher-Fricken-pdf](/hikingblog.github.io/assets/docs/hoher-fricken-bischof-tour-details.pdf) or [2) online at alpenvereinaktiv](https://www.alpenvereinaktiv.com/de/tour/farchant-hoher-fricken-bischof-oberauer-steig-farchant/177925701/?share=~znhruplk%244osg3avn#dm=1)
 
