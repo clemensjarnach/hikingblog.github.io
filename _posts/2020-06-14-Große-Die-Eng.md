@@ -5,7 +5,7 @@ date:   2020-06-14 12:28:47 +0200
 categories: jekyll update
 permalink: /:categories/:year/:month/:day/:title
 ---
-### Ammergauer Alpen
+### Karwendel
 ![Die-Eng](/hikingblog.github.io/assets/img/hiking/Eng-1.jpg)
 
 
@@ -25,7 +25,7 @@ Address for car navigation:  Eng, 6215, Austria
 
 
 **Huts/Stations:**
-- [Die Eng Hotel](https://www.eng.at)
+- [Die Eng - Hotel](https://www.eng.at)
 - [Falkenhütte, (1848 m)](https://www.alpenverein.de/DAV-Services/Huettensuche/Falkenhuette/6938561)
 - [Lamsenjochhütte, (1953 m)](https://www.alpenverein.de/DAV-Services/Huettensuche/Lamsenjochhuette/6938631)
 
