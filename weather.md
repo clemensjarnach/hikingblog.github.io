@@ -17,7 +17,7 @@ Latest weather conditions and forecasts for the Alps can be found on the “Al
 
 ---
 <br>
-## Weather in the Mountains Catalogue
+## Weather in the Mountains Catalogue:
 
 ### Inversion, anticyclone, and stable weather
 - A continuing **temperature inversion** at valley vicinity means the mountains stay clear.

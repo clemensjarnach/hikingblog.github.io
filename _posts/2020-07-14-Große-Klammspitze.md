@@ -65,7 +65,7 @@ The normal route for the descent is the same as the ascent.
 - Once I reached the Brunnenkopfhuette I also hiked up to the Brunnenkopf summit. It takes only 10 to 15 min.
 - At 15:30 I was back down at the Linderhof parking area.
 
-- **Next Time:** I want to plan to go a long loop next time. Linderhof - Brunnenkopfhuette - Große Klammspitze - Feigenkopf - Bäckenalmsattel - Sägertalstraße - PlanseeLinderhof - Linderhof. This would be a long and difficult "Bergfahrt" but worthwhile. This route needs high endurance, knowledge and experience in mountaineering, and good conditions.
+- **Next Time:** I want to plan to go a long loop next time. Linderhof - Brunnenkopfhuette - Große Klammspitze - Feigenkopf - Bäckenalmsattel - Sägertalstraße - PlanseeLinderhof - Linderhof. This would be a long and difficult "Bergfahrt" but worthwhile. This route needs high endurance, knowledge and experience in mountaineering, and good conditions. For more details look at the website [**Ammergauer-Alpen-Große-Klammspitz-Bergfahrt**](https://www.ammergauer-alpen.de/Media/Touren/Bergtour-Grosse-Klammspitze).
 
 
 - **In total I hiked from 9:45am to 3:30pm. Distance: 17.24km. Total elevation: 1.310hm. Highest point: 1924 m. Lowest Point: 942 m**

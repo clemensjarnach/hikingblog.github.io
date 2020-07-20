@@ -14,7 +14,7 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 - [Ettaler Manndl (1633m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/28/Ettaler-Manndl)
 - [Teufelstättkopf (1758m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/23/Teufelstaettkopf)
 - [Notkarspitze (1889m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/notkarspitze-wanderung-ettal/)
-- [Kreuzspitze (2185m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/kreuzspitze/)
+- [Kreuzspitze (2185m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/kreuzspitze/) [2-link](https://www.ammergauer-alpen.de/Media/Touren/Bergtour-Kreuzspitze)
 - [Große Klammspitze (1924m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/07/14/Große-Klammspitze)
 
 
