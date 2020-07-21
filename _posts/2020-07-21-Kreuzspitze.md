@@ -11,7 +11,7 @@ permalink: /:categories/:year/:month/:day/:title
 
 | Details       |               |
 | ------------- |:-------------:|
-| Type:         | Mountaineering route **(T3+)** and **I** climbing |
+| Type:         | Mountaineering route **(T3+)** and short climbing section (**I**)|
 | Ascent:       | 3:00 h  - 3:30 h      |
 | Descent:      | 2:00 h - 2:30 h        |
 | Elevation:    | 1100 m vert.  |
@@ -49,7 +49,7 @@ The normal route for the descent is the same as the ascent.
 **Huts/Stations:** None.
 
 
-[![Kreuzspitze-Map](/hikingblog.github.io/assets/img/hiking/Kreuzspitze-Map)](https://www.alpenvereinaktiv.com/de/tour/kreuzspitze-2020-07-21/178843055/?share=%7Eznkpkcfb%244ossmphu)
+[![Kreuzspitze-Map](/hikingblog.github.io/assets/img/hiking/Kreuzspitze-Map.png)](https://www.alpenvereinaktiv.com/de/tour/kreuzspitze-2020-07-21/178843055/?share=%7Eznkpkcfb%244ossmphu)
 
 -------
 <br>
@@ -57,8 +57,6 @@ The normal route for the descent is the same as the ascent.
 
 ### Hike 21.07.2020 - Kreuzspitze (2185m)
 **Route:**  Parking area on the left side of the road 7km behind Linderhofi.e. Parkplatz Ammerwald (1080m) – über das Gries, Links – Hochgrießkar – Kreuzspitze (2185m) - Hochgrießkar - Gries - Parkplatz Ammerwald (1080m)
-
-**Map & Route Summary:**   [online at alpenvereinaktiv](https://www.alpenvereinaktiv.com/de/tour/14.07.2020-grosse-klammspitze/178679717/?share=%7Eznjv7usa%244ossmagn)
 
 **Description:**
 - I parked at Parkplatz Ammerwald (1080m) which lies on the left side of the road, approx. 7km behind Linderhof, and just behind the boarder.
