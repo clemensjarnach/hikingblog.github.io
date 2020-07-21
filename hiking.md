@@ -11,10 +11,12 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 
 ### At Unter-/ Oberammergau & Ettal (i.e. Ammergauer Alpen)
 
+- [Kofel (1342m)](https://www.hoehenrausch.de/berge/kofel/)
 - [Ettaler Manndl (1633m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/28/Ettaler-Manndl)
 - [Teufelstättkopf (1758m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/23/Teufelstaettkopf)
 - [Notkarspitze (1889m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/notkarspitze-wanderung-ettal/)
 - [Kreuzspitze (2185m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/kreuzspitze/) [2-link](https://www.ammergauer-alpen.de/Media/Touren/Bergtour-Kreuzspitze)
+- [Scheinbergspitze (1929m)](https://www.hoehenrausch.de/berge/scheinbergspitze/)
 - [Große Klammspitze (1924m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/07/14/Große-Klammspitze)
 
 
