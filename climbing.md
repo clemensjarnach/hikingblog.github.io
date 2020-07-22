@@ -6,7 +6,7 @@ permalink: /climbing/
 
 This is a list of my favourite sport and alpine climbing routes grouped by regions.
 
-![Sonnjoch](/assets/img/climbing/Sonnjoch-1.jp2)
+![Sonnjoch](/hikingblog.github.io/assets/img/climbing/Sonnjoch-1.jpg)
 
 
 ### At Unter-/ Oberammergau & Ettal
@@ -18,4 +18,4 @@ This is a list of my favourite sport and alpine climbing routes grouped by regio
 - ...
 - ...
 
-![Zahn](/assets/img/climbing/climbing-zahn-1.jpg)
+![Zahn](/hikingblog.github.io/assets/img/climbing/climbing-zahn-1.jpg)

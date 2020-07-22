@@ -25,6 +25,8 @@ The Kreuzspitze (2185m) is the highest summit in the Ammergauer Alpen. It is a n
 
 **Map & Route Summary:**   [online at alpenvereinaktiv](https://www.alpenvereinaktiv.com/de/tour/kreuzspitze-2020-07-21/178843055/?share=%7Eznkpkcfb%244ossmphu)
 
+**Video Description:** [YouTube](https://youtu.be/nd5eKYm9gPs)
+
 **Route:**  Parkplatz Ammerwald (1080m) – Corss Riverbed, left hand side – Hochgrießkar – Kreuzspitze (2185m) – Descent same as Ascent
 
 **Character:** The Kreuzspitze is an alpine mountaineering route of  medium-high difficulty (T3+) and requires short parts of climbing in the (I) degree. This tour requires alpine experience and a good head for heights.

@@ -24,6 +24,8 @@ permalink: /:categories/:year/:month/:day/:title
 **Character:** of medium difficulty. The ascent is partly very steep and requires experience (i.e.Trittsicherheit).
 An additional highlight of this tour are the *Kuhfluchtwasserfälle*.
 
+**Video Description:** [YouTube](https://youtu.be/bgcdVSTXbxM)
+
 **Drive to base:**
 To Farchant; direction Bahnhofsstraße, then onto Mühldörflstraße. At the end of the road take a left to Kuhfluchtweg. Follow the road to the parking area.
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Weather and Mountaineering
+title: Mountain-Weather
 permalink: /weather/
 ---
 ## Mountain-Weather Forecast:
