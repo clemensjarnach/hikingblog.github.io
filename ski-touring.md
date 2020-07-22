@@ -6,7 +6,7 @@ permalink: /ski-touring/
 
 This is a list of my favourite ski touring routes grouped by regions.
 
-![Skitouring-1](/assets/img/ski-touring/skitouring-1.jpeg)
+![Skitouring-1](/hikingblog.github.io/assets/img/ski-touring/skitouring-3.jpg)
 
 
 
@@ -25,4 +25,4 @@ This is a list of my favourite ski touring routes grouped by regions.
 
 
 
-![Skitouring-3](/assets/img/ski-touring/skitouring-3.jpeg)
+![Skitouring-3](/hikingblog.github.io/assets/img/ski-touring/skitouring-2.jpg)

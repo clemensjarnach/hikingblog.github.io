@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![Lauren-Hiking](/assets/img/lauren-hiking-1.jpg)
+![Lauren-Hiking](/hikingblog.github.io/assets/img/lauren-hiking-1.jpg)
 
 
 ## Experience the Alps with my favourite routes
