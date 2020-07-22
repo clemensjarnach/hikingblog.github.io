@@ -6,7 +6,7 @@ permalink: /via-ferrata/
 
 This is a list of my favourite via feraata routes grouped by regions.
 
-![Ettaler Manndl img2](/assets/img/hiking/Ettalermandl-1.jpeg)
+![Ettaler Manndl img2](/assets/img/hiking/Ettalermandl-1.jpg)
 
 
 

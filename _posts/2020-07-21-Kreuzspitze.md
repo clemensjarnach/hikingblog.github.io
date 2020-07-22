@@ -21,7 +21,7 @@ permalink: /:categories/:year/:month/:day/:title
 | Danger:       | Alpine Environment with Alpine Dangers. Loose ground. Often very exposed|
 | Weather Forecast:   | 1)[wetter.com](https://www.wetter.com/deutschland/linderhof/DE0002755003.html),  2) [DAV-Bergwetter](https://www.alpenverein.de/DAV-Services/Bergwetter/Allgaeu-Karwendel-Ammergau-Zugspitze-Arlberg)|
 
-The Kreuzspitze (2185m) is the highest summit in the Ammergauer Alpen. It is a nice alpine hike that shouldn’t be underestimated. This majestic mountain offers steep trails, lots of loose ground, rocks, climbing bits, and a wonderful view. 
+The Kreuzspitze (2185m) is the highest summit in the Ammergauer Alpen. It is a nice alpine hike that shouldn’t be underestimated. This majestic mountain offers steep trails, lots of loose ground, rocks, climbing bits, and a wonderful view.
 
 **Map & Route Summary:**   [online at alpenvereinaktiv](https://www.alpenvereinaktiv.com/de/tour/kreuzspitze-2020-07-21/178843055/?share=%7Eznkpkcfb%244ossmphu)
 
@@ -50,7 +50,7 @@ The normal route for the descent is the same as the ascent.
 **Huts/Stations:** None.
 
 
-[![Kreuzspitze-Map](/hikingblog.github.io/assets/img/hiking/Kreuzspitze-Map.png)](https://www.alpenvereinaktiv.com/de/tour/kreuzspitze-2020-07-21/178843055/?share=%7Eznkpkcfb%244ossmphu)
+[![Kreuzspitze-Map](/hikingblog.github.io/assets/img/hiking/Kreuzspitze-Map.jpg)](https://www.alpenvereinaktiv.com/de/tour/kreuzspitze-2020-07-21/178843055/?share=%7Eznkpkcfb%244ossmphu)
 
 -------
 <br>

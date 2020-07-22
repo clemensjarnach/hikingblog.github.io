@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-![Clemens-hiking-1](/assets/img/clemes-hiking-1.jpg)
+![Clemens-hiking-1](/hikingblog.github.io/assets/img/clemes-hiking-1.jpg)
 
 Blog Author: Clemens Jarnach
 

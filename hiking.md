@@ -6,7 +6,8 @@ permalink: /hiking/
 
 This is a list of my favourite mountain hikes and mountaineering routes grouped by regions.
 
-![Mountains](/assets/wank-1.jpeg)
+![Mountains](/hikingblog.github.io/assets/img/hiking/hiking-img-1.jpg)
+
 
 
 ### At Unter-/ Oberammergau & Ettal (i.e. Ammergauer Alpen)
