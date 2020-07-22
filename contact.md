@@ -12,6 +12,8 @@ Email: jarnach@hotmail.de
 
 You can find me also on Instagram as [@clemensthelemon](https://www.instagram.com/clemensthelemon/)
 
+or on YouTube as [Clemens J. Fex](https://www.youtube.com/channel/UCLBGu9MdRPb8iyDJFjxwdOw)
+
 
 <br>
 # Impressum / Legal Notice
