@@ -22,7 +22,7 @@ permalink: /:categories/:year/:month/:day/:title
 **Drive to base:**
 Address for car navigation:  Eng, 6215, Austria
 
-
+**Video Description:** [YouTube](https://www.youtube.com/watch?v=sh6IT3gbab4&t=7s)
 
 **Huts/Stations:**
 - [Die Eng - Hotel](https://www.eng.at)
