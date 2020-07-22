@@ -7,7 +7,7 @@ permalink: /:categories/:year/:month/:day/:title
 ---
 ### Ammergauer Alpen
 
-![Ettaler Manndl img1](/hikingblog.github.io/assets/img/hiking/Ettalermandl-2.jpeg)
+![Ettaler Manndl img1](/hikingblog.github.io/assets/img/hiking/Ettalermandl-2.jpg)
 
 
 
@@ -40,7 +40,7 @@ Same as Ascent.
 
 
 
-![Ettaler Manndl img2](/hikingblog.github.io/assets/img/hiking/Ettalermandl-1.jpeg)
+![Ettaler Manndl img2](/hikingblog.github.io/assets/img/hiking/Ettalermandl-1.jpg)
 
 
 #### Read more on [bergtour-online.de](https://www.bergtour-online.de/bergtouren/klettersteige/ettaler-manndl/)
