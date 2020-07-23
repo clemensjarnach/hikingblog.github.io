@@ -35,7 +35,6 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 
 - [Kramer (1985m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/kramerspitze/)
 - [Zugspitze (2962m)](https://www.alpenverein.de/bergsport/sicherheit/bergsteigen/zugspitze_aid_12915.html)
--
 
 
 
@@ -43,7 +42,6 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 
 - [Benediktenwand (1801m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/wanderung-benediktenwand-jachenau/)
 - [Jochberg (1565m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/leicht/wanderung-jochberg-walchensee/)
-- [Heimgarten (1790m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/heimgarten-und-herzogstand/)
 - [Heimgarten (1790m) & Herzogstand  (1731m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/heimgarten-und-herzogstand/)
 
 
@@ -66,16 +64,17 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 ### Karwendel
 
 - [Schafreuter (2102m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/mittel/wanderung-schafreuter-karwendel/)
+- [Torscharte & Torkopf (2014m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/mittel/torkopf-karwendel/)
+- [Fleischbank, Hölzelstalljoch & Grasbergjoch (2026m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/wanderung-fleischbank-hoelzelstalljoch-grasbergjoch-im-karwendel/)
 - [Gamsjoch  (2452m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/wanderung-gamsjoch/)
 - [Hahnkampl (2082hm)](https://www.bergtour-online.de/bergtouren/bergwanderungen/mittel/hahnkampl/)
 - [Sonnjoch (2457m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/mittel/sonnjoch/)
 - [Kompar (2011m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/mittel/kompar/)
 - [Steinfalk (2347m](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/steinfalk/)
 - [Lamsenspitze (2508m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/lamsenspitze/)
-- [Torscharte & Torkopf (2014m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/mittel/torkopf-karwendel/)
-- [Fleischbank, Hölzelstalljoch & Grasbergjoch (2026m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/wanderung-fleischbank-hoelzelstalljoch-grasbergjoch-im-karwendel/)
 
 
 
+<br>
 ---
-For more information or suggestions please [contact me](/contact/)    <!-- does this link work-->
+For more information or suggestions please [contact me](https://clemjar.github.io/contact/)    <!-- does this link work-->
