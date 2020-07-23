@@ -75,6 +75,5 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 
 
 
-<br>
 ---
-For more information or suggestions please [contact me](https://clemjar.github.io/contact/)    <!-- does this link work-->
+For more information or suggestions please [contact me](https://clemjar.github.io/hikingblog.github.io/contact/)    <!-- does this link work-->

@@ -28,7 +28,6 @@ baseurl: "hikingblog.github.io" # the subpath of your site, e.g. /blog - use: hi
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 instagram_username: clemensthelemon
-youtube: Clemens J. Fex
 github_username:  clemjar
 
 

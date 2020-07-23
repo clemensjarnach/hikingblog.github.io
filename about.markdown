@@ -10,4 +10,4 @@ This is a list of my favourite mountain hikes, climbs, scrambles, ski-tours, and
 
 If you have questions or recommendations [contact me](https://clemjar.github.io/hikingblog.github.io/contact/).
 
-You can find me also on Instagram as [@clemensthelemon](https://www.instagram.com/clemensthelemon/).
+You can find me also on Instagram as [@clemensthelemon](https://www.instagram.com/clemensthelemon/) or on Youtube as [Clemens J. Fex](https://www.youtube.com/channel/UCLBGu9MdRPb8iyDJFjxwdOw).
