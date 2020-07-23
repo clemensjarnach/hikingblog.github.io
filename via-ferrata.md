@@ -4,7 +4,7 @@ title: Via-Ferrata
 permalink: /via-ferrata/
 ---
 
-This is a list of my favourite via feraata routes grouped by regions.
+This is a list of my favourite via ferrata routes grouped by regions.
 
 ![Ettaler Manndl img2](/assets/img/hiking/Ettalermandl-1.jpg)
 
@@ -12,9 +12,13 @@ This is a list of my favourite via feraata routes grouped by regions.
 
 ### At Unter-/ Oberammergau & Ettal
 - [Ettaler Manndl (1633m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/28/Ettaler-Manndl)
+- [Kofel (1342m)](https://www.hoehenrausch.de/berge/kofel/)
 
-### Garmisch
+### Wettersteingebirge
 - [Alpspitze  ‎(2,628 m)](https://www.via-ferrata.de/klettersteige/topo/klettersteig-alpspitze) - [Topo](http://www.real-adventure.eu/Topos/Alpspitz-Ferrata_Topo_kl.pdf)
+- [Partenkirchner Dreitorspitze (2633 m)](https://www.hoehenrausch.de/berge/dreitorspitze/partenkirchner/)
+
+
 
 ### Allgäu
 - [Tegelbergsteig (1707 m)](https://www.via-ferrata.de/klettersteige/topo/klettersteig-tegelberg-tegelbergsteig)

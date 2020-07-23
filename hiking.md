@@ -12,13 +12,14 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 
 ### At Unter-/ Oberammergau & Ettal (i.e. Ammergauer Alpen)
 
-- [Kofel (1342m)](https://www.hoehenrausch.de/berge/kofel/)
 - [Ettaler Manndl (1633m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/28/Ettaler-Manndl)
-- [Teufelstättkopf (1758m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/23/Teufelstaettkopf)
-- [Notkarspitze (1889m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/notkarspitze-wanderung-ettal/)
-- [Kreuzspitze (2185m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/07/21/Kreuzspitze)
-- [Scheinbergspitze (1929m)](https://www.hoehenrausch.de/berge/scheinbergspitze/)
+- [Friederspitze (2049m) & Frieder (2053m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/leicht/friederspitz-frieder/)
 - [Große Klammspitze (1924m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/07/14/Große-Klammspitze)
+- [Kofel (1342m)](https://www.hoehenrausch.de/berge/kofel/)
+- [Kreuzspitze (2185m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/07/21/Kreuzspitze)
+- [Notkarspitze (1889m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/notkarspitze-wanderung-ettal/)
+- [Scheinbergspitze (1929m)](https://www.hoehenrausch.de/berge/scheinbergspitze/)
+- [Teufelstättkopf (1758m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/23/Teufelstaettkopf)
 
 
 
@@ -33,6 +34,8 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 ### At Garmisch
 
 - [Kramer (1985m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/kramerspitze/)
+- [Zugspitze (2962m)](https://www.alpenverein.de/bergsport/sicherheit/bergsteigen/zugspitze_aid_12915.html)
+-
 
 
 
@@ -47,10 +50,12 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 
 ### At Krün, Mittenwald:
 
+- [Große Arnspitze (2196 m)](https://www.hoehenrausch.de/berge/grosse-arnspitze/)
 - [Schöttelkarspitze (2050m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/schoettelkarspitze/)
 - [Soiernspitze (2257m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/soiernspitze/)
 
-
+### At Ehrwald
+- [Zugspitze, Gatterl-Tour (2962 m) ](https://www.auf-die-zugspitze-wandern.info/gatterl-tour-oesterreich/)
 
 ### At Lermoos
 
@@ -60,6 +65,7 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 
 ### Karwendel
 
+- [Schafreuter (2102m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/mittel/wanderung-schafreuter-karwendel/)
 - [Gamsjoch  (2452m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/wanderung-gamsjoch/)
 - [Hahnkampl (2082hm)](https://www.bergtour-online.de/bergtouren/bergwanderungen/mittel/hahnkampl/)
 - [Sonnjoch (2457m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/mittel/sonnjoch/)
