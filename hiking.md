@@ -13,7 +13,6 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 ### At Unter-/ Oberammergau & Ettal (i.e. Ammergauer Alpen)
 
 - [Ettaler Manndl (1633m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/28/Ettaler-Manndl)
-- [Friederspitze (2049m) & Frieder (2053m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/leicht/friederspitz-frieder/)
 - [Große Klammspitze (1924m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/07/14/Große-Klammspitze)
 - [Kofel (1342m)](https://www.hoehenrausch.de/berge/kofel/)
 - [Kreuzspitze (2185m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/07/21/Kreuzspitze)
@@ -33,6 +32,7 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 
 ### At Garmisch
 
+- [Friederspitze (2049m) & Frieder (2053m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/07/25/Frieder)
 - [Kramer (1985m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/kramerspitze/)
 - [Zugspitze (2962m)](https://www.alpenverein.de/bergsport/sicherheit/bergsteigen/zugspitze_aid_12915.html)
 
