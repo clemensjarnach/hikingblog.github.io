@@ -16,6 +16,7 @@ This is a list of my favourite via ferrata routes grouped by regions.
 
 ### Wettersteingebirge
 - [Alpspitze  ‎(2,628 m)](https://www.via-ferrata.de/klettersteige/topo/klettersteig-alpspitze) - [Topo](http://www.real-adventure.eu/Topos/Alpspitz-Ferrata_Topo_kl.pdf)
+- [Südlichen Riffelspitze (2262m)](https://www.via-ferrata.de/klettersteige/topo/riffelscharte), [2](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/riffelspitze/)
 - [Partenkirchner Dreitorspitze (2633 m)](https://www.hoehenrausch.de/berge/dreitorspitze/partenkirchner/)
 
 
@@ -23,3 +24,8 @@ This is a list of my favourite via ferrata routes grouped by regions.
 ### Allgäu
 - [Tegelbergsteig (1707 m)](https://www.via-ferrata.de/klettersteige/topo/klettersteig-tegelberg-tegelbergsteig)
 - ...
+
+
+### Karwendel
+- [Mittenwalder Höhenweg (Klettersteig B)](https://www.bergtour-online.de/bergtouren/klettersteige/mittenwalder-hoehenweg-klettersteig/)
+- [Lamsenspitze (2508m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/lamsenspitze/)
