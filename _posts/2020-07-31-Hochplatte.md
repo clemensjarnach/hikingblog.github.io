@@ -21,7 +21,7 @@ permalink: /:categories/:year/:month/:day/:title
 | Equipment:    |  Mountaineering boots (dt. Bergstiefel) |
 | Notes:        | Not recommended after snowfall or strong rainfall|
 | Danger:       | Alpine Environment with Alpine Dangers and exposed sections  |
-| Weather Forecast:   | 1) [wetter.com](https://www.wetter.com/deutschland/garmisch-partenkirchen/DE0003244.html ,  2) [DAV-Bergwetter](https://www.alpenverein.de/DAV-Services/Bergwetter/Allgaeu-Karwendel-Ammergau-Zugspitze-Arlberg)|
+| Weather Forecast:   | 1)[wetter.com](https://www.wetter.com/deutschland/garmisch-partenkirchen/DE0003244.html),  2) [DAV-Bergwetter](https://www.alpenverein.de/DAV-Services/Bergwetter/Allgaeu-Karwendel-Ammergau-Zugspitze-Arlberg)|
 
 The Hochplatte (2082m) is a great and main summit of this part of the Ammergauer Alpen. It has a narrow ridge with invites for a beautiful ridge traverse. Many routes are possible to the Hochplatte from the Ammerwald alm, via Fensterl or Weitaljoch, or alternatively from the Kenzen and Kenzenhütte.
 
