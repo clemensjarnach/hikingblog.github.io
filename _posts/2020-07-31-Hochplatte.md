@@ -20,11 +20,13 @@ permalink: /:categories/:year/:month/:day/:title
 | Season:       |  End of May - Early October |
 | Equipment:    |  Mountaineering boots (dt. Bergstiefel) |
 | Notes:        | Not recommended after snowfall or strong rainfall|
-| Danger:       | Alpine Environment with Alpine Dangers and eyxposed sections  |
-| Weather Forecast:   | 1)[wetter.com](https://www.wetter.com/deutschland/garmisch-partenkirchen/DE0003244.html,  2) [DAV-Bergwetter](https://www.alpenverein.de/DAV-Services/Bergwetter/Allgaeu-Karwendel-Ammergau-Zugspitze-Arlberg)|
+| Danger:       | Alpine Environment with Alpine Dangers and exposed sections  |
+| Weather Forecast:   | 1) [wetter.com](https://www.wetter.com/deutschland/garmisch-partenkirchen/DE0003244.html ,  2) [DAV-Bergwetter](https://www.alpenverein.de/DAV-Services/Bergwetter/Allgaeu-Karwendel-Ammergau-Zugspitze-Arlberg)|
 
-The Hochplatte (2082m) is a great and main summit of this part of the Ammergauer Alpen. It has a narrow ridge with invites for a beautiful ridge traverse. Many routes are possible to the Hochplatte from the Ammerwald alm, via Fensterl or Weitaljoch, or Alternatively from the Kenzen and kenzenhütte.
+The Hochplatte (2082m) is a great and main summit of this part of the Ammergauer Alpen. It has a narrow ridge with invites for a beautiful ridge traverse. Many routes are possible to the Hochplatte from the Ammerwald alm, via Fensterl or Weitaljoch, or alternatively from the Kenzen and Kenzenhütte.
+
 The hike to the  Hochplatte is one of the most exciting and rewarding undertaking in the Ammergauer Alpen.
+<br>
 
 **Route:**
 Ammerwaldalm parking lot (1090hm) - Roggentalsattel (1883hm) - Fensterl (1916hm) - Hochplatte (2082hm) - Descent same as Ascent; or loop via Weitaljoch (1780hm) - Ammerwaldalm.
@@ -59,7 +61,7 @@ The Hochplatte is a very rewarding hike in the Ammergauer Alpen. The hike form t
 
 The hike from the Ammerwaldalm to the Hochplatte is almost always in the direct sun.
 
-I recommended proper mountain boots (dt. Bergschuhe) for this hike due to a lot of big gravel, and the short climbing sections.
+I recommended proper mountaineering boots (dt. Bergschuhe) for this hike due to a lot of big gravel, and the short climbing sections.
 
 
 
@@ -69,7 +71,7 @@ I recommended proper mountain boots (dt. Bergschuhe) for this hike due to a lot 
 -------
 
 <br>
-![Hochplatte-2](/hikingblog.github.io/assets/img/hiking/Hochplatte-2.jpg)
+
 ## Logbook:
 
 ### Hike 31.07.2020 - Hochplatte & Krähe
@@ -96,7 +98,7 @@ I recommended proper mountain boots (dt. Bergschuhe) for this hike due to a lot 
 
 - **In total I hiked from 9:10am to 3:30pm. Distance: 14.42km. Total elevation: 1.090hm. Highest point: 2080m. Lowest Point: 1090m**
 
-
+![Hochplatte-2](/hikingblog.github.io/assets/img/hiking/Hochplatte-2.jpg)
 ---
 
 #### Read more on [Bergtour-Online](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/wanderung-hochplatte/), or on [hoehenrausch.de](https://www.hoehenrausch.de/berge/hochplatte-ammergauer/)
