@@ -14,7 +14,7 @@ This is a list of my favourite sport and alpine climbing routes grouped by regio
 - add more climbs
 
 ### At Garmisch
-- [Alpine Climbing Garden below the Alpspitze „Himmelsburg“]
+- [Alpine Climbing Garden below the Alpspitze „Himmelsburg“](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/24/Klettergarten-Himmelsburg)
 - Find more on Blog: [Alpinsport-Basis](https://www.alpinsport-basis-blog.de/klettergebiete-bei-garmisch/)
 
 ### At Kochel
