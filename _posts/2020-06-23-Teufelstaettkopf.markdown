@@ -13,7 +13,7 @@ permalink: /:categories/:year/:month/:day/:title
 | Ascent:       | Take Alpspitzbahn - from the 'Gipfelstation' approx 10 min. to the crag      |
 | Descent:      | -     |
 | Season:       |  Summer|
-| Weather Forecast: | [1) wetter.com](https://www.wetter.com/deutschland/garmisch-partenkirchen/DE0003244.html), 2) [DAV-Bergwetter](https://www.alpenverein.de/DAV-Services/Bergwetter/Allgaeu-Karwendel-Ammergau-Zugspitze-Arlberg)     |
+| Weather Forecast: | [1) wetter.com](https://www.wetter.com/deutschland/garmisch-partenkirchen/DE0003244.html), 2) [DAV-Bergwetter](https://www.alpenverein.de/DAV-Services/Bergwetter/Allgaeu-Karwendel-Ammergau-Zugspitze-Arlberg), 3) [Zugspitze.de](https://zugspitze.de/de/Aktuell/Live-Info/Zugspitze?type=weather)     |
 
 **Description:**
 The Alpine Climbing Garden 'Himmelsburg' is located at the 'Alpspitzgebiet'. Routes are up to 40m long. The climbing garden has routes in the grades 4 to 7 UIAA. The climbing garden is in Alpine Environment which means general alpine dangers need to be considered. The climbing garden is great for training and practicing climbing in an aline environment. There are also a few places where you can practice skills such as abseiling, securing, belay stand construction, climbing training. e.g. there are blots close to the ground to practice belay stand construction (dt. Standplatzbau) etc.
