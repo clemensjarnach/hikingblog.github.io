@@ -80,7 +80,7 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 - [Kompar (2011m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/mittel/kompar/)
 - [Mahnkopf (2094m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/mittel/mahnkopf/)
 - [Steinfalk (2347m](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/steinfalk/)
-- [Lamsenspitze (2508m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/lamsenspitze/)
+- [Lamsenspitze (2508m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/08/07/Lamsenspitze)
 - [Montscheinspitze (2106m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/montscheinspitze/)
 
 

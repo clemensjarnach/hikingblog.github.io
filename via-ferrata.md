@@ -29,4 +29,4 @@ This is a list of my favourite via ferrata routes grouped by regions.
 
 ### Karwendel
 - [Mittenwalder Höhenweg (Klettersteig B)](https://www.bergtour-online.de/bergtouren/klettersteige/mittenwalder-hoehenweg-klettersteig/)
-- [Lamsenspitze (2508m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/lamsenspitze/)
+- [Lamsenspitze (2508m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/08/07/Lamsenspitze)

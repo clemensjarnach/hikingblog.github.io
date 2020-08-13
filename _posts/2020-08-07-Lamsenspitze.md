@@ -33,6 +33,8 @@ Eng Hotel - Binsalm - Lamsenjoch – Lamsenjochhütte -  Brudertunnel or Normalw
 
 **Map & Route Summary:**   [online at alpenvereinaktiv](https://www.alpenvereinaktiv.com/de/tour/lamsenspitze-am-2020-08-07/182428459/?share=%7Eznv3gjbe%244osspjow)
 
+**Video Description** [YouTube](https://youtu.be/awFat2eqKCk)
+
 **Character:** The Lamsenspitze is an alpine mountaineering route of  medium difficulty (T3) with via ferrata sections 1) Normalweg (A-A/B), 2) Brudertunnel (B/C), and summit via-ferrata (B/C). Short sections to the summit without fixed rope (I).
 
 This hike requires experience and a good head for heights due to exposed sections as well as experience in via-ferrata climbing.
@@ -55,7 +57,7 @@ Descent as the same as the ascent. However, climbers who to the Brudertunnel Fer
 
 [![Hochplatte-map](/hikingblog.github.io/assets/img/hiking/Lamsenspitze-map.jpg)](https://www.alpenvereinaktiv.com/de/tour/lamsenspitze-am-2020-08-07/182428459/?share=%7Eznv3gjbe%244osspjow)
 
-[!Lamsenspitze-topo](/hikingblog.github.io/assets/img/hiking/Lamsenspitze-topo.jpg)
+![Lamsenspitze-topo](/hikingblog.github.io/assets/img/hiking/Lamsenspitze-topo.jpg)
 
 -------
 
@@ -83,4 +85,4 @@ Descent as the same as the ascent. However, climbers who to the Brudertunnel Fer
 
 ---
 
-#### Read more on [Bergtour-Online](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/lamsenspitze/ or on [hoehenrausch.de](https://www.hoehenrausch.de/berge/lamsenspitze/)
+#### Read more on [Bergtour-Online](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/lamsenspitze/) or on [hoehenrausch.de](https://www.hoehenrausch.de/berge/lamsenspitze/)
