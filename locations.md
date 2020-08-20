@@ -13,7 +13,11 @@ This is a list of my favourite mountain places, regions, and valleys.
 
 - ### [Eng Tal & Alm](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/14/Die-Eng)
 
+- ### [Leutasch](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/15/Leutasch)
+
 - ### Karwendel
+
+- ### [Mittenwald](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/16/Mittenwald)
 
 - ### Sellrain
 

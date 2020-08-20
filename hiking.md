@@ -51,9 +51,13 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 
 ### At Krün, Mittenwald
 
+- [Brunnsteinspitze (2179 m), Rotwandlspitze (2191 m)](https://www.hoehenrausch.de/berge/brunnsteinspitze/)
 - [Große Arnspitze (2196 m)](https://www.hoehenrausch.de/berge/grosse-arnspitze/)
+- [Mittenwalder Höhenweg (Klettersteig)](https://www.hoehenrausch.de/berge/mittenwalder-klettersteig/hoehenweg/)
+- [Obere Wettersteinspitze (2297 m)](https://www.hoehenrausch.de/berge/wettersteinspitze/)
 - [Schöttelkarspitze (2050m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/schoettelkarspitze/)
 - [Soiernspitze (2257m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/soiernspitze/)
+- [Westliche Karwendelspitze (2385 m)](https://www.hoehenrausch.de/berge/westliche-karwendelspitze/)
 
 
 
