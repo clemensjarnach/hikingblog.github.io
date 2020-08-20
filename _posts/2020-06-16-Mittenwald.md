@@ -33,7 +33,7 @@ Address for car navigation:  Mittenwald, 82481, Germany
 
 **Hikes**
 - [Brunnsteinspitze (2179 m), Rotwandlspitze (2191 m)](https://www.hoehenrausch.de/berge/brunnsteinspitze/)
-- - [Franzosensteig](https://www.outdooractive.com/de/route/wanderung/zugspitzregion/franzosensteig-rundweg-ab-mittenwald-oberhalb-der-leutascher-schanz/45231266/)
+- [Franzosensteig](https://www.outdooractive.com/de/route/wanderung/zugspitzregion/franzosensteig-rundweg-ab-mittenwald-oberhalb-der-leutascher-schanz/45231266/)
 - [Große Arnspitze (2196 m)](https://www.hoehenrausch.de/berge/grosse-arnspitze/)
 - [Obere Wettersteinspitze (2297 m)](https://www.hoehenrausch.de/berge/wettersteinspitze/)
 - [Die Leutascher Geisterklamm](https://www.outdooractive.com/de/route/wanderung/seefeld/die-leutascher-geisterklamm/1374793/)
