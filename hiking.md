@@ -37,7 +37,8 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 - [Kramer (1985m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/kramerspitze/)
 - [Hohe Ziegspitz (1864m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/mittel/hoher-ziegspitz/)
 - [Schellschlicht (2053m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/schellschlicht/)
-- [Zugspitze (2962m)](https://www.alpenverein.de/bergsport/sicherheit/bergsteigen/zugspitze_aid_12915.html)
+- [Zugspitze (2962m) Overview](https://www.alpenverein.de/bergsport/sicherheit/bergsteigen/zugspitze_aid_12915.html)
+- [Zugspitze (2962m) via Stopselzieher](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/08/21/Zugspitze-Stopselzieher)
 
 
 

@@ -12,7 +12,7 @@ permalink: /:categories/:year/:month/:day/:title
 
 | Details       |               |
 | ------------- |:-------------:|
-| Type:         | Medium mountaineering route and Via-Ferrata  **(T3)** / **(A/B)-(B)** |
+| Type:         | Medium mountaineering route and Via-Ferrata  **(T3+)** / **(A/B)** |
 | Ascent:       | 6:00 h        |
 | Descent:      | 00:15 h with Cable Car    |
 | Elevation:    | 1925 hm vert.  |
@@ -46,23 +46,28 @@ Eibsee (950 m) - Wiener-Neustädter Hütte (2209 m)- Stopselzieher-Klettersteig
 
 **Video Description** [add link]
 
-**Character:** The Lamsenspitze is an alpine mountaineering route of  medium difficulty (T3) with via ferrata sections 1) Normalweg (A-A/B), 2) Brudertunnel (B/C), and summit via-ferrata (B/C). Short sections to the summit without fixed rope (I).
+**Character:** The route to the Zugspitze via the Stopselzieher is an alpine mountaineering route of  medium difficulty (T3+) with a via-ferrata section (A/B). The route should be only considered at good conditions, and in the summer when there is no snow on the route.
 
-This hike requires experience and a good head for heights due to exposed sections as well as experience in via-ferrata climbing.
+This hike requires alpine experience and a good head for heights due to exposed sections as well as experience in via-ferrata climbing.
 
 **Drive to base:**
-Address for car navigation: Hinterriß-Eng 1-2, 6215 Hinterriß, Austria. The parking lot of the hotel 'DIE ENG Alpengasthof und Naturhotel'.
+Address for car navigation: Am Eibsee 1, D-82491 Grainau. The parking lot of the Eibsee Station of the Zugspitzbahn, or the Zugspitz Cable Car.
 
 
 **Ascent:**
-From the parking lot of the Alpengasthof Eng you follow the signs to the Binsalm. A steep path starts just left after the 'Eng Alm' Gate. After the Binsalm you follow a small path that leads up a mountain field. The direction is always the Lamsenjoch / Lamsenjochhuette. Once you reach the Lamsenjoch, an almost horizontal path leads to the Lamsenjoch Hütte. From here you can already see the hut in the distance.
+From the parking lot of the Zugspitzbahn Eibsee Station you walk to the 'Eibseealm' and follow a forest road into the forest. Soon you will eacha crossing; follow the signs to “Zugspitzbahn Station Riffelriss“. First, we walk on the 	ski piste and then we follow a trail that is on the right of the ski slope.  We follow this trail through the forrest uphill to the Bavarian-Tirolean border. Now we follow the signs to the right; direction to the “Wiener-Neustädter-Hütte” and to the “Zugspitzgipfel“.
 
-From the hut you have two options: 1) either you take the 'Normalweg' which leads up on crushed rocks (i.e. dt. Schotterfeld) right to the bottom of the East face (Ostwand). You cross the bottom of the East face and then an easy via-ferrata (A-A/B) leads to the Lamsenscharte. 2) Alternatively, you can take the exciting and slightly more difficult via-ferrata route via Brudertunnel (B/C). Both routes lead to the Lamsenscharte. From there you follow the path on loose rock (dt Geröllfeld) in West direction until you reach the access point of the via-ferrata for the summit ascent (B-B/C). Be careful of rock falls. Note. the via-ferrata to the summit of the lamsenspitze has been redirected and is now slightly more difficult, however, less exposed to rockfall. Old guides and books will say this via-ferat is easy (A-A/B), however, since 2020 is the grade more a (B/C-C).
+The path gets steeper and we will reach soon first fixed steel ropes (which, however, can be followed without a via-ferrata set). We are gaining hight and the view is getting better and better.
 
+The route to the hut is getting considerably more alpine and we have to master steep sections and loose grounds. finally, after approx. 4h  you will reach the Wiener Neustädter Hütte (2209 m). From here you will have a great view to the entire Ammergauer Alpen and you will be able to see the old 'Bergstation of the old Tiroler Seilbahn'. The hut is a great place to enjoy the view, take a long break, and check wether you have enough power and energy to master the last 750 m vert. via the via-ferrata to the summit of the Zugspitze.
+
+From the hut you will cross the 'Geröllfeld' (field of loose rocks), which has often until late summer snow. At the bottom of the wall (approx after 15 min from the hut) begins the via-ferrata. Here, or at the hut, you can put on the via-ferrata set and gear, helmet. The via-ferrata follows a logical route on the face and leads through a short tunnel. The route is sufficiently protected with fixed steel-ropes which makes the ascent easier. After approx 1:30h you will reach the ridge from where you can hike left to the Müncher Haus and the Zugspitz Bergstation as well as the Summit.
 
 
 **Descent:**
-Descent as the same as the ascent. However, climbers who to the Brudertunnel Ferrata might want to take the Normalweg on the way down.
+For most alpinists who want to do this tour in a day will take the cable car back down to the Eibsee parking lot. (tickets are 35,00 €, price in 2020).
+
+Alpinists can also stay at the Müncher Haus over night and descent the next day on one of the several routes.
 
 
 
@@ -80,20 +85,19 @@ Descent as the same as the ascent. However, climbers who to the Brudertunnel Fer
 **Route:**  Eibsee (950 m) - Wiener-Neustädter Hütte (2209 m)- Stopselzieher-Klettersteig –  Münchner Haus (2962m) – Zugspitze (2962m) - Cable Car 'Zugspitz-Seilbahn' back to the Eibsee
 
 **Description:**
-- I parked at the Eng Hotel
-- 10.10am: I started hiking
-- 12:00: I reached the westliche Lamsenjoch
-- 12:15pm: I am at the Lamsenjochhuette
-- I took the Brudertunnel route. I was alone on the Ferrata. Porbbaly because I was quite late.
-- 14:00: I reached the Summit cross after the short climbing section.
-- The Hike so far was not very busy. I saw a few climbers coming down again. However I was the last to ascent.
-- 17:00 I was back down at the parking lot of the Eng Hotel, where my parents and Bertie waited for my already.
-- We cooled our feet in the river close to the parking lot with a fantastic view to the Spritzkarspitze.
-- A great day!
+- I parked at the parking lot of the Seilbahn Eibsee Station
+- 07:30am: I started hiking
+- 10:50am: I reached the Wiener-Neustädter Hütte after approx 3.20h hiking
+- I took a long break (approx 45 min)
+- 13:50pm: I reached the Müncher Haus and the Summit shortly after
+- There was such a long line at the summit that it took 30 min of waiting until I reached the cross.
+- The platform and station on the Zugspitz summit was very busy even in corona times.
+- After enjoying the great view I took the cable car back down to the Eibsee parking lot.
 
-- **In total I hiked from 10:10am to 17:00pm. Distance: 18 km. Total elevation: 1.390hm. Highest point: 2505m. Lowest Point: 1174m**
+
+- **In total I hiked from 07:30am to 14:00pm when I reached the Summit. Distance: 13 km. Total elevation: 1900hm. Highest point: 2962m. Lowest Point: 950hm**
 
 
 ---
 
-#### Read more on [Bergtour-Online](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/lamsenspitze/) or on [hoehenrausch.de](https://www.hoehenrausch.de/berge/lamsenspitze/)
+#### Read more on [Bergtour-Online](https://www.bergtour-online.de/bergtouren/klettersteige/zugspitze-stopselzieher/) or on [hoehenrausch.de](https://www.hoehenrausch.de/berge/zugspitze/ehrwald/)
