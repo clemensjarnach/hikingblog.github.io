@@ -74,10 +74,10 @@ Descent same as Ascent. It might take you about 3h to get down.
 **Description:**
 - I parked at a parking lot in Obern, which I think was called Obern Parking Lot 'Klamm'. It is a private parking lot by a local farmer.
 - 10:00am: I started hiking
-- ...am: I reached the Rauth Hütte after approx ...h hiking
-- 13:20: I was on the East Summit of the Hohe Munde. I took me 3:30h.
+- 11:00am: I reached the Rauth Hütte after approx 1h of hiking
+- 13:20: I was on the East Summit of the Hohe Munde. It took me 3:30h.
 - I took an hour break
-- On the descent I saw a whole filed of Edelweiss !
+- On the descent I saw a whole field of Edelweiss !
 - 17:10 I was back down at the car.
 
 - **In total I hiked from 10:00am to 17:10pm. Distance: 20 km. Total elevation: 1500hm. Highest point: 2592m. Lowest Point: 1165hm**
