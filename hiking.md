@@ -61,6 +61,15 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 - [Westliche Karwendelspitze (2385 m)](https://www.hoehenrausch.de/berge/westliche-karwendelspitze/)
 
 
+### Leutasch
+
+- [Gehrenspitze (2367 m)](https://www.hoehenrausch.de/berge/gehrenspitze/)
+- [Große Arnspitze (2196 m)](https://www.hoehenrausch.de/berge/grosse-arnspitze/)
+- [Hochwanner (2744 m)](https://www.hoehenrausch.de/berge/hochwanner/)
+- [Hohe Munde (2662m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/09/04/Hohe-Munde)
+- [Predigtstuhl (2.234m)](https://www.tirol.at/reisefuehrer/sport/wandern/wandertouren/a-predigtstuhl)
+
+
 
 ### At Ehrwald
 

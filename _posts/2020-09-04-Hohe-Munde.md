@@ -27,11 +27,11 @@ The Hohe Munde is a proud mountain at the eastern end of the Mieminger Kette (i.
 **Route:**
 Obern (1165hm) - Rauth Hütte (1605m) - Hohe Munde Ostgipfel (2529m) - Hohe Munde Westgipfel (2662m) - Descent same as Ascent
 
-**Map & Route Summary:**   [online at alpenvereinaktiv](https://www.alpenvereinaktiv.com/de/tour/zugspitze-via-stopselzieher-am-2020-08-21/184517083/?share=%7Ezoipijpr%244ossyxxi)
+**Map & Route Summary:**   [online at alpenvereinaktiv](https://www.alpenvereinaktiv.com/de/tour/hohe-munde-ostgipfel-am-2020-09-04/186053227/#dm=1)
 
-**Video Description** [YouTube: Hohe Munde 2592m](https://www.youtube.com/watch?v=5edh-8bHIS4)
+**Video Description:** [YouTube: Hohe Munde 2592m](https://www.youtube.com/watch?v=5edh-8bHIS4)
 
-**Attention - Danger**
+**Attention - Danger! :**
 Do not ascent or descent via the West ridge of the Hohe Munde as the Via Ferrata and trail called 'Rauches Tal Weg' is currently off-limits and closed by the alpine club due to serious landslides. The trail on the west side is since 2019 very dangerous and closed.
 
 **Character:** The route to the Hohe Munde is a difficult mountain hike; maybe a (T3) or (T3-). The hike from Obern to the Rauth Hütte is easy and soon after we have to hike and scramble on steep fields and tracks. It is never really difficult and it is not really climbing but you want to use your hands for balance sometimes. There are not really exposed section with the exception of the ridge from the east summit over to the west summit.
@@ -58,7 +58,7 @@ Descent same as Ascent. It might take you about 3h to get down.
 
 
 
-[![Zugspitze-Stopselzieher-map](/hikingblog.github.io/assets/img/hiking/Hohe-Munde-map.jpg)](https://www.alpenvereinaktiv.com/de/tour/hohe-munde-ostgipfel-am-2020-09-04/186053227/#dm=1)
+[![Hohe-Munde-map](/hikingblog.github.io/assets/img/hiking/Hohe-Munde-map.jpg)](https://www.alpenvereinaktiv.com/de/tour/hohe-munde-ostgipfel-am-2020-09-04/186053227/#dm=1)
 
 
 
