@@ -98,6 +98,11 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 - [Montscheinspitze (2106m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/montscheinspitze/)
 
 
+### Stubaier Alpen 
+#### Kühtai
+- [Sulzkogel (3016 m)](https://www.hoehenrausch.de/berge/sulzkogel/)
+#### Praxmar
+- [Zischgeles (3004m)](https://www.hoehenrausch.de/berge/zischgeles/)
 
 ---
 For more information or suggestions please [contact me](https://clemjar.github.io/hikingblog.github.io/contact/)    <!-- does this link work-->
