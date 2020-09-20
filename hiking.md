@@ -99,11 +99,8 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 
 
 ### Stubaier Alpen
-#### Kühtai
 - [Sulzkogel (3016 m)](https://www.hoehenrausch.de/berge/sulzkogel/)
-
-#### Praxmar
-- [Zischgeles (3004m)](https://www.hoehenrausch.de/berge/zischgeles/)
+- [Zischgeles (3004m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/09/14/Zischgeles)
 
 ---
 For more information or suggestions please [contact me](https://clemjar.github.io/hikingblog.github.io/contact/)    <!-- does this link work-->

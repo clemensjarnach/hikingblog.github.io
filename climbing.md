@@ -10,8 +10,9 @@ This is a list of my favourite sport and alpine climbing routes grouped by regio
 
 
 ### At Unter-/ Oberammergau & Ettal
+- [Climbing at Oberammergau Overview](https://www.ammergauer-alpen.de/Sommerurlaub/Klettern-in-den-Ammergauer-Alpen/Klettergebiete)
 - [Am Zahn (1543m)](https://www.ammergauer-alpen.de/Media/Touren/Klettergebiet-Zahn)
-- add more climbs
+
 
 ### At Garmisch
 - [Alpine Climbing Garden below the Alpspitze „Himmelsburg“](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/24/Klettergarten-Himmelsburg)
