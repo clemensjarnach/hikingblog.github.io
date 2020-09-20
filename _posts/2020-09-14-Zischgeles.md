@@ -13,7 +13,7 @@ permalink: /:categories/:year/:month/:day/:title
 | Details       |               |
 | ------------- |:-------------:|
 | Type:         | Difficult Mountain Hike  **(T3)** |
-| Ascent:       | 3.5h       |
+| Ascent:       | 3.5h      |
 | Descent:      | 3h      |
 | Elevation:    | 1300 hm |
 | Distance:     | total 15km   |
