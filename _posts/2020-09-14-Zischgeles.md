@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Zischgeles (3004m)"
-date:   2020-09-014 12:28:47 +0200
+date:   2020-09-14 12:28:47 +0200
 categories: jekyll update
 permalink: /:categories/:year/:month/:day/:title
 ---
