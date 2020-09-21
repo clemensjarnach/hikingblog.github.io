@@ -13,12 +13,12 @@ permalink: /:categories/:year/:month/:day/:title
 | Details       |               |
 | ------------- |:-------------:|
 | Type:         | Difficult Mountain Hike  **(T3)** |
-| Ascent:       | 3.5h      |
-| Descent:      | 3h      |
-| Elevation:    | 1300 hm |
-| Distance:     | total 15km   |
+| Ascent:       | 3.5h          |
+| Descent:      | 3h            |
+| Elevation:    | 1300 hm       |
+| Distance:     | total 15km    |
 | Season:       |  June -  October |
-| Weather Forecast:   | 1)[wetter.com](https://www.wetter.com/oesterreich/praxmar/ATAT30190003.html), 2)[DAV-Bergwetter](https://www.alpenverein.de/DAV-Services/Bergwetter/Oetztal-Pitztal-Stubaital-Silvretta-Sankt-Moritz/#2020-09-20|weatherLayer)|
+| Weather Forecast:  |  1)[wetter.com](https://www.wetter.com/oesterreich/praxmar/ATAT30190003.html),  2)[DAV-Bergwetter](https://www.alpenverein.de/DAV-Services/Bergwetter/Oetztal-Pitztal-Stubaital-Silvretta-Sankt-Moritz)   |
 
 The Zischgeles (3004m) is a relatively easy 3000m peak located in the Stubaier Alpen. In the winter is the Zischgeles a very popular ski mountaineering mountain whereas in the summer it is a quiet mountain. It is a 3000m high mountain that can be reached without glacier contact. Although is an easier 3000m peak, the ascent should not be underestimated. Anyone wanting to summit this great mountain will need a good fitness, experience in the alps, and be able to do a bit of ridge climbing with some exposed sections (I). The summit rewards with an incredible view to the surrounding giants, such as the majestic Grubenwand (3173m), the Schöntalspitze (3002m), and the Lisenser Fernerkogel (3299m).
 
