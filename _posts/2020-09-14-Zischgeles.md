@@ -20,7 +20,7 @@ permalink: /:categories/:year/:month/:day/:title
 | Season:       |  June -  October |
 | Weather Forecast:  |  1)[wetter.com](https://www.wetter.com/oesterreich/praxmar/ATAT30190003.html),  2)[DAV-Bergwetter](https://www.alpenverein.de/DAV-Services/Bergwetter/Oetztal-Pitztal-Stubaital-Silvretta-Sankt-Moritz)   |
 
-The Zischgeles (3004m) is a relatively easy 3000m peak located in the Stubaier Alpen. In the winter is the Zischgeles a very popular ski mountaineering mountain whereas in the summer it is a quiet mountain. It is a 3000m high mountain that can be reached without glacier contact. Although is an easier 3000m peak, the ascent should not be underestimated. Anyone wanting to summit this great mountain will need a good fitness, experience in the alps, and be able to do a bit of ridge climbing with some exposed sections (I). The summit rewards with an incredible view to the surrounding giants, such as the majestic Grubenwand (3173m), the Schöntalspitze (3002m), and the Lisenser Fernerkogel (3299m).
+The Zischgeles (3004m) is a relatively easy 3000m peak located in the Stubaier Alpen. In the winter, the Zischgeles is a very popular destination for ski mountaineering  whereas in the summer it is very quiet in the area. It is a 3000m high mountain that can be reached without glacier contact. Although it is an easier 3000m peak, the ascent should not be underestimated. Anyone wanting to summit this great peak will need a good fitness, experience in the alps, and be able to do a bit of ridge climbing with some exposed sections (I). The summit rewards with an incredible view to the surrounding giants, such as the majestic Grubenwand (3173m), the Schöntalspitze (3002m), and the Lisenser Fernerkogel (3299m).
 
 
 <br>
@@ -67,7 +67,7 @@ Descent same as Ascent. Or a loop by combingin Route 32 and 31.
 **Route:**  Praxmar (1700m) - Route 31 - Zischgeles North Ridge - Zischgeles Summit (3004m) - Descent same as Ascent
 
 **Description:**
-- I parked at the parking lot at Praxmar, which I think was called Obern Parking Lot 'Klamm'. (Camping is not allowed on this parling lot). I stayed over night and slept in the car to start my tour early in the morning.
+- I parked at the parking lot at Praxmar. I stayed over night and slept in the car to start my tour early in the morning. (FYI: Camping is not allowed on this parking lot).
 - 07:30am: I started hiking
 - 10:45am: I reached the Summit of the Zischgeles (3004m). it took me about 3h15min.
 - 11:00am: I started to descent.
