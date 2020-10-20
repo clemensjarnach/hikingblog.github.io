@@ -17,7 +17,7 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 - [Hochplatte Ammergauer Alpen (2082m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/07/31/Hochplatte)
 - [Kofel (1342m)](https://www.hoehenrausch.de/berge/kofel/)
 - [Kreuzspitze (2185m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/07/21/Kreuzspitze)
-- [Notkarspitze (1889m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/notkarspitze-wanderung-ettal/)
+- [Notkarspitze (1889m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/10/18/Notkarspitze)
 - [Scheinbergspitze (1929m)](https://www.hoehenrausch.de/berge/scheinbergspitze/)
 - [Teufelstättkopf (1758m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/23/Teufelstaettkopf)
 

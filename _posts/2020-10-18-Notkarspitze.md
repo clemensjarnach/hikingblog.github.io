@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notkarspitze (1888 m)"
+title:  "Notkarspitze (1888m)"
 date:   2020-10-18 12:28:47 +0200
 categories: jekyll update
 permalink: /:categories/:year/:month/:day/:title
@@ -22,8 +22,9 @@ permalink: /:categories/:year/:month/:day/:title
 The Notkarspitze (1889m) is one of my favourite mountain hikes in the Ammergauer Alpen. I particularly like the rich flora and views. The ascent from the Ettaller Mühle is pretty steep, with short scramble sections, but never really difficult or exposed, which makes this hike exciting and enjoyable.
 
 
-**Route:** __Ascent__: Parking Lot at Ettaler Mühle (ca. 880m) – Notkarspitze (1888m)
-__Descent__: 1) same as ascent or 2) – Ziegelspitze (1719m) – Ochsensitz (1515m) -  Ettaler Mühle.
+**Route:**
+- __Ascent__: Parking Lot at Ettaler Mühle (ca. 880m) – Notkarspitze (1888m)
+- __Descent__: 1) same as ascent or 2) – Ziegelspitze (1719m) – Ochsensitz (1515m) -  Ettaler Mühle.
 
 **Character:** The Notkarspitze is a mountain hike that is quite steep and has some short scramble sections. Overall it is a medium to difficult mountain hike.
 
@@ -31,7 +32,7 @@ __Descent__: 1) same as ascent or 2) – Ziegelspitze (1719m) – Ochsensitz (15
 Address for car navigation: Ettaler Mühle 1, 82488 Ettal. There is a parking lot at the Gasthof Ettaler Mühle. Optionally you can start from Ettal.
 
 **Hike:**
-- Park at Ettaler Mühle and cross the street. The hike starts on the right at the forest. Soon you will find a steep path that goes up the forest. You can follow that path to the summit.
+From the Ettaler Mühle cross the street south. On the left hand side of the forest is a small trail that will lead right into the forest. Soon you will find a steep path (route 262) that goes up the forest. You can follow that path to the summit.
 
 **Descent:**
 If you want to do a loop you can descent via Ziegelspitze (1719m) and Ochsensitz (1515m). From the summit you take the east path, direction Ziegelspitze. This is a nice and narrow path. A head for heights makes this section more comfortable.
