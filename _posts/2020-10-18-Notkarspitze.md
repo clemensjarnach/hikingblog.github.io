@@ -70,4 +70,4 @@ A variation would be to decent form the summit to the south in the direction of 
 
 #### Read more on [Bergtour-Online](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/notkarspitze-wanderung-ettal/), [hoehenrausch.de](https://www.hoehenrausch.de/berge/notkarspitze/)
 
-![Notkarspitze](/hikingblog.github.io/assets/img/hiking/Notkarspitze-4.jpg)
+![Notkarspitze](/hikingblog.github.io/assets/img/hiking/Notkarspitze-4.jpg)*Pictures are from 18.10.2020 - at very snowy conditions*
