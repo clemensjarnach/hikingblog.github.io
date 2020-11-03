@@ -74,6 +74,25 @@ I recommended proper mountaineering boots (dt. Bergschuhe) for this hike due to 
 
 ## Logbook:
 
+
+### Hike 31.10.2020 - Hochplatte
+A wonderful end-October hike with Lauren. It was relatively warm and sunny. Snow was only an issue at short sections that were mostly in the shade, or on the ridge at the top. Due to wet stone and a bit of snow we decided against going all the way to the cross of the east summit and stayed at the summit plateau.
+
+**Route:**  Ammerwaldalm parking lot (1090m) - Roggentalsattel (1883m) - Fensterl (1916m) - Hochplatte (2082m) - Descent same as Ascent
+
+**Description:**
+- We parked at the Ammerwald alm parking lot.
+- 11:00am: we started hiking; We were able to start that late since it was a nice Autumn day. Usually I would recommend starting earlier.
+- 13:10: we reached the Fensterl.
+- 13:40: we took a break at the summit plateau. (We did not climb all the way to the east summit cross, due to a lot of snow. moreover, the summit was relatively busy)
+-
+- In total we hiked from 11:00 to 17:00pm. Distance: 14km. Total elevation: 1.090hm. Highest point: 2080m. Lowest Point: 1090m
+- Note: We started relatively late since the weather was good and we hoped the sun would dry some of the rock. In general I would recommend starting earlier.
+
+![Hoch-Platte-2020-10-31](/hikingblog.github.io/assets/img/hiking/Hoch-Platte-2020-10-31.jpg)
+*Picture was taken on the 31.10.2020 - Lauren on the ridge to the Hochplatte*
+
+
 ### Hike 31.07.2020 - Hochplatte & Krähe
 **Route:**  Ammerwaldalm parking lot (1090m) - Roggentalsattel (1883m) - Fensterl (1916m) - Hochplatte (2082m) - Fensterl - Krähe (2010m) - Fensterl - Roggentalsattel - Ammerwaldalm
 
