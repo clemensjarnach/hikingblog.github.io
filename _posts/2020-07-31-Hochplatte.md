@@ -85,7 +85,6 @@ A wonderful end-October hike with Lauren. It was relatively warm and sunny. Snow
 - 11:00am: we started hiking; We were able to start that late since it was a nice Autumn day. Usually I would recommend starting earlier.
 - 13:10: we reached the Fensterl.
 - 13:40: we took a break at the summit plateau. (We did not climb all the way to the east summit cross, due to a lot of snow. moreover, the summit was relatively busy)
--
 - In total we hiked from 11:00 to 17:00pm. Distance: 14km. Total elevation: 1.090hm. Highest point: 2080m. Lowest Point: 1090m
 - Note: We started relatively late since the weather was good and we hoped the sun would dry some of the rock. In general I would recommend starting earlier.
 
