@@ -11,7 +11,7 @@ This is a list of my favourite trail-running routes grouped by regions.
 
 ### Ammergauer Alpen
 - [Ettaler Manndl (1633m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/28/Ettaler-Manndl)
-- [Hochschergen (1395m)](https://www.hoehenrausch.de/berge/hochschergen/)
+- [Hochschergen (1395m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/10/23/Hochschergen)
 - [Hörnle (hinteres) (1548m)](https://www.ammergauer-alpen.de/Media/Touren/Wanderung-Hoernlehuette)
 - [Kofel (1342m)](https://www.hoehenrausch.de/berge/kofel/)
 
