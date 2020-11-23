@@ -5,7 +5,7 @@ date:   2020-10-23 12:28:47 +0200
 categories: jekyll update
 permalink: /:categories/:year/:month/:day/:title
 ---
-### Estergebierge
+### Ammergauer Alpen
 
 ![Hochschergen](/hikingblog.github.io/assets/img/hiking/Hochschergen-1.jpg)
 
