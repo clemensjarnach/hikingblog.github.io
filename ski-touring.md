@@ -10,17 +10,18 @@ This is a list of my favourite ski touring routes grouped by regions.
 
 
 
-### Sellrain
-- [Lampsenspitze (2875 m)](https://www.tourentipp.com/de/touren/Lampsenspitze-Skitour-Sellrain_124.html)
-- [Zwieselbacher Rosskogel (3081 m)](https://www.tourentipp.com/de/touren/Zwieselbacher-Rosskogel-Skitour_96.html)
-
-
-
 ### Allgäu
 
 - [Schnippenkopf (1833m)](https://www.tourentipp.com/de/touren/Schnippenkopf-Skitour-Oberstdorf-Allgaeu_477.html)
-- ...
 
+
+### Ammergauer Alpen
+- [Kolbensattel / Am Zahn (1276 m / 1536 m)](https://www.ammergauer-alpen.de/Media/Touren/Skitour-Am-Zahn-ueber-Kolbensattelhuette)
+- [Hörnle (1548 m)](https://www.ammergauer-alpen.de/Media/Touren/Skitour-Hinteres-Hoernle)
+
+### Sellrain
+- [Lampsenspitze (2875 m)](https://www.tourentipp.com/de/touren/Lampsenspitze-Skitour-Sellrain_124.html)
+- [Zwieselbacher Rosskogel (3081 m)](https://www.tourentipp.com/de/touren/Zwieselbacher-Rosskogel-Skitour_96.html)
 
 
 
