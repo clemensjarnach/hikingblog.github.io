@@ -15,7 +15,7 @@ permalink: /:categories/:year/:month/:day/:title
 | Ascent:       | 1:00 h    (+ 1:00h if you continue to Am Zahn)   |
 | Elevation:    | 420 m vert.   (+ 300m to Am Zahn) |
 | Distance:     | 4.3 km    (+ 2km to Am Zahn)   |
-| Weather Forecast: | [1) wetter.com](https://www.wetter.com/deutschland/unterammergau/DE0010731.html), 2) [DAV-Bergwetter](https://www.alpenverein.de/DAV-Services/Bergwetter/Allgaeu-Karwendel-Ammergau-Zugspitze-Arlberg) |
+| Weather Forecast: | [1) wetter.com](https://www.wetter.com/deutschland/oberammergau/DE0007695.html), 2) [DAV-Bergwetter](https://www.alpenverein.de/DAV-Services/Bergwetter/Allgaeu-Karwendel-Ammergau-Zugspitze-Arlberg/Oberammergau/), 3) [Lawinenlagebericht](https://www.lawinenwarndienst-bayern.de/res/start_winter.php) |
 
 
 **Character:** This is a relatively easy ski tour and especially suitable for training purposes. It is possible to ascent on the side of the ski piste and due to the option of artificial snow is the piste relatively snow safe. The route/slope up to the Kolbensattelhuette has practically no danger of avalanches. If you continue your way up to Am Zahn pay attention to alpine dangers including snow avalanches.
