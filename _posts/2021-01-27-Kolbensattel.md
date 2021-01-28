@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kolbensattel (1276 m) & Am Zahn (1536 m)"
+title:  "Kolbensattel (1276m) & Am Zahn (1536m)"
 date:   2021-01-27 12:28:47 +0200
 categories: jekyll update
 permalink: /:categories/:year/:month/:day/:title
@@ -18,9 +18,9 @@ permalink: /:categories/:year/:month/:day/:title
 | Weather Forecast: | [1) wetter.com](https://www.wetter.com/deutschland/unterammergau/DE0010731.html), 2) [DAV-Bergwetter](https://www.alpenverein.de/DAV-Services/Bergwetter/Allgaeu-Karwendel-Ammergau-Zugspitze-Arlberg) |
 
 
-**Character:** This is a relatively easy ski tour and especially suitable for training purposes. It is possible to ascent on the side of the ski piste and due to the option of artificial snow is the piste relatively snow safe. Up to the Kolbensattel is practically no danger of avalanches.
+**Character:** This is a relatively easy ski tour and especially suitable for training purposes. It is possible to ascent on the side of the ski piste and due to the option of artificial snow is the piste relatively snow safe. The route/slope up to the Kolbensattelhuette has practically no danger of avalanches. If you continue your way up to Am Zahn pay attention to alpine dangers including snow avalanches.
 
-**Variation** Once you reached the Kolbensattelhuette you can continue your way up to Am Zahn. After the Kolbensattelhuette you leave the slopes and you enter alpine territory.
+**Variation:** Once you reached the Kolbensattelhuette you can continue your way up to Am Zahn. After the Kolbensattelhuette you leave the slopes and you enter alpine territory.
 
 
 **Drive to base:**
@@ -35,14 +35,14 @@ Drive to Oberammergau. Follow in Oberammergau the directions to the Kolbensessel
 ### Ski Tour 27.01.2021 - Kolbensattel & Am Zahn
 
 **Description:**
-- Wolfi and I met at 14:00 at the Kolbensesselbahn parking lot. The price was 15€ for the parking day ticket and using the slopes. We went up on the side of the ski slopes and took a break at the Kolbensattelhuette. Then we went up a little further; direction Am Zahn. When it started to get dark we took out skins of and skied down the slopes.
+- Wolfi and I met at 14:00 at the Kolbensesselbahn parking lot. The price was 15€ for the parking day ticket and using the slopes. We went up on the side of the ski slopes and took a break at the Kolbensattelhuette. Then we went up a little further; direction to Am Zahn. When it started to get dark we took off our skins and skied down the slopes.
 
 - In total we were ski touring from 14:22 to 17:00. It took us 70min to the Kolbensattelhuette. Distance: 5km. Total elevation gain: 600m.
 
 
 
 ---
-#### Read more on  [ammergauer-alpen.de](https://www.ammergauer-alpen.de/Media/Touren/Skitour-Kolbensattel), [Info to the variation: Ski Tour - Am Zahn](https://www.ammergauer-alpen.de/Media/Touren/Skitour-Am-Zahn-ueber-Kolbensattelhuette)
+#### Read more on  [ammergauer-alpen.de](https://www.ammergauer-alpen.de/Media/Touren/Skitour-Kolbensattel), Info to the variation: [Ski Tour - Am Zahn](https://www.ammergauer-alpen.de/Media/Touren/Skitour-Am-Zahn-ueber-Kolbensattelhuette)
 
 ![Kolbensattel](/hikingblog.github.io/assets/img/hiking/Kolbensattel-ski-1.jpg)
-*Pictures are from 27.01.2021*
+*Pictures are showing Wolfi on our way up; taken on 27.01.2021*

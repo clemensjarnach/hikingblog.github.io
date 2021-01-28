@@ -16,7 +16,7 @@ This is a list of my favourite ski touring routes grouped by regions.
 
 
 ### Ammergauer Alpen
-- [Kolbensattel / Am Zahn (1276 m / 1536 m)](https://www.ammergauer-alpen.de/Media/Touren/Skitour-Am-Zahn-ueber-Kolbensattelhuette)
+- [Kolbensattel & Am Zahn (1276 m / 1536 m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2021/01/27/Kolbensattel)
 - [Hörnle (1548 m)](https://www.ammergauer-alpen.de/Media/Touren/Skitour-Hinteres-Hoernle)
 
 ### Sellrain
