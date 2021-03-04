@@ -38,11 +38,9 @@ Drive to Kochel and follow the B11 from Kochel to direction Wallgau. Just behind
 ### 03.03.2021 - Herzogstand (1731m)
 
 **Description:**
--  I parked at the 'Parkplatz Kesselberg'. I started the trail run at 9:30am.
+-I parked at the 'Parkplatz Kesselberg'. I started the trail run at 9:30am.
 It took me exactly 1:37h to reach the summit; it was 11:13. I took a long break to enjoy the fantastic view.
 the road up was at parts still with snow and sometimes even icy which made it at parts difficult with my trial running shoes. Even on this Wednesday morning, I encountered quite a bit of people on my way down. This really is one of the busiest and most popular mountains in the Bayerischen Voralpen.
-
-We did not take long breaks on the way up. We were lucky and did not encounter a lot of people since it was a Wednesday afternoon. It was a surprisingly warm day in mid February with 17 degrees Celsius. The Mountain was almost clear of snow. We encountered only a few snow fields which however created no problems at all. The summit was snow free. After a nice break on the summit for ca 45min we started the descent at 17:00. At 18:13 we were back at the car. the descent took me bout 1h. I finished my work out when I reached the car after a total of 2:38 min exercise.
 - In total I was hiking from 09:35 to 12:53. Total distance: 15km. Total elevation gain: 888hm.
 
 

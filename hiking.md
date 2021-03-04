@@ -48,6 +48,7 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 - [Benediktenwand (1801m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/wanderung-benediktenwand-jachenau/)
 - [Jochberg (1565m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2021/02/24/Jochberg)
 - [Heimgarten (1790m) & Herzogstand  (1731m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/heimgarten-und-herzogstand/)
+- [Herzogstand (1731m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2021/03/03/Herzogstand)
 
 
 

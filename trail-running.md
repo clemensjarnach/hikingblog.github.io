@@ -22,5 +22,6 @@ This is a list of my favourite trail-running routes grouped by regions.
 ### Garmisch
 - [Eibsee Umrundung](https://www.bergtour-online.de/bergtouren/bergwanderungen/leicht/eibsee-garmisch/)
 
-### Kochel
+### At Kochel & Walchensee
+- [Herzogstand (1731m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2021/03/03/Herzogstand)
 - [Kochelsee Umrundung - Felsenweg](https://www.outdooractive.com/de/route/wanderung/toelzer-land/rundweg-von-kochel-a.-see-felsenweg-schlehdorf/16828137/)
