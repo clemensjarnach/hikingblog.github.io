@@ -38,15 +38,15 @@ Drive to Kochel and follow the B11 from Kochel to direction Wallgau. Just behind
 ### 03.03.2021 - Herzogstand (1731m)
 
 **Description:**
--I parked at the 'Parkplatz Kesselberg'. I started the trail run at 9:30am.
+- I parked at the 'Parkplatz Kesselberg'. I started the trail run at 9:30am.
 It took me exactly 1:37h to reach the summit; it was 11:13. I took a long break to enjoy the fantastic view.
 the road up was at parts still with snow and sometimes even icy which made it at parts difficult with my trial running shoes. Even on this Wednesday morning, I encountered quite a bit of people on my way down. This really is one of the busiest and most popular mountains in the Bayerischen Voralpen.
-- In total I was hiking from 09:35 to 12:53. Total distance: 15km. Total elevation gain: 888hm.
+- In total I was hiking from 09:35 to 12:53. Total distance: 15km. Total elevation gain: 888hm. 
 
 
 
 ---
-#### Read more on  [Bergtour-online.de](https://www.bergtour-online.de/bergtouren/bergwanderungen/leicht/herzogstand-wanderung-walchensee/),[hoehenrausch.de](https://www.hoehenrausch.de/berge/herzogstand/)
+#### Read more on  [Bergtour-online.de](https://www.bergtour-online.de/bergtouren/bergwanderungen/leicht/herzogstand-wanderung-walchensee/), [hoehenrausch.de](https://www.hoehenrausch.de/berge/herzogstand/)
 
 ![Herzogstand2](/hikingblog.github.io/assets/img/hiking/2021_03_03_Herzogstand_2.jpg)
 *The first picture shows the view from the Herzogstand summit. We can see the Walchensee and the Karwendelgebierge in the background. The second picture is the view from the summit on to the Martinskopf summit; taken on 03.03.2021*
