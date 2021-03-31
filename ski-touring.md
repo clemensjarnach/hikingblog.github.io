@@ -22,7 +22,7 @@ This is a list of my favourite ski touring routes grouped by regions.
 - [Scheinbergspitze (1929m)](https://www.ammergauer-alpen.de/Media/Touren/Skitour-Scheinbergspitz)
 
 ### Estergebierge
-- [Wank (1780m)](https://www.bergtour-online.de/skitouren/leichteskitouren/wank-skitour-leicht/)
+- [Wank (1780m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2021/03/30/Wank)
 
 ### Sellrain
 - [Lampsenspitze (2875 m)](https://www.tourentipp.com/de/touren/Lampsenspitze-Skitour-Sellrain_124.html)

@@ -29,7 +29,7 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 - Hohe Kiste (1922m)
 - [Hoher Fricken (1940m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/07/02/Hoher-Fricken)
 - [Krottenkopf (2086m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/23/Krottenkopf)
-- [Wank (1780m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/leicht/wanderung-wank/)
+- [Wank (1780m)](https://clemjar.github.io/hikingblog.github.io/hiking/)
 
 
 
