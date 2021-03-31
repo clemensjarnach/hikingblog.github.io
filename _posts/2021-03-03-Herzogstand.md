@@ -41,7 +41,7 @@ Drive to Kochel and follow the B11 from Kochel to direction Wallgau. Just behind
 - I parked at the 'Parkplatz Kesselberg'. I started the trail run at 9:30am.
 It took me exactly 1:37h to reach the summit; it was 11:13. I took a long break to enjoy the fantastic view.
 the road up was at parts still with snow and sometimes even icy which made it at parts difficult with my trial running shoes. Even on this Wednesday morning, I encountered quite a bit of people on my way down. This really is one of the busiest and most popular mountains in the Bayerischen Voralpen.
-- In total I was hiking from 09:35 to 12:53. Total distance: 15km. Total elevation gain: 888hm. 
+- In total I was hiking from 09:35 to 12:53. Total distance: 15km. Total elevation gain: 888hm.
 
 
 

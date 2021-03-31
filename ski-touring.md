@@ -16,8 +16,13 @@ This is a list of my favourite ski touring routes grouped by regions.
 
 
 ### Ammergauer Alpen
-- [Kolbensattel & Am Zahn (1276 m / 1536 m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2021/01/27/Kolbensattel)
 - [Hörnle (1548 m)](https://www.ammergauer-alpen.de/Media/Touren/Skitour-Hinteres-Hoernle)
+- [Kolbensattel & Am Zahn (1276 m / 1536 m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2021/01/27/Kolbensattel)
+- [Pürschlinghaus (1589m)](https://www.ammergauer-alpen.de/Media/Touren/Skitour-Puerschlinghaus)
+- [Scheinbergspitze (1929m)](https://www.ammergauer-alpen.de/Media/Touren/Skitour-Scheinbergspitz)
+
+### Estergebierge
+- [Wank (1780m)](https://www.bergtour-online.de/skitouren/leichteskitouren/wank-skitour-leicht/)
 
 ### Sellrain
 - [Lampsenspitze (2875 m)](https://www.tourentipp.com/de/touren/Lampsenspitze-Skitour-Sellrain_124.html)

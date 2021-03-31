@@ -29,6 +29,7 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 - Hohe Kiste (1922m)
 - [Hoher Fricken (1940m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/07/02/Hoher-Fricken)
 - [Krottenkopf (2086m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/06/23/Krottenkopf)
+- [Wank (1780m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/leicht/wanderung-wank/)
 
 
 
@@ -40,6 +41,7 @@ This is a list of my favourite mountain hikes and mountaineering routes grouped 
 - [Schellschlicht (2053m)](https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/schellschlicht/)
 - [Zugspitze (2962m) Overview](https://www.alpenverein.de/bergsport/sicherheit/bergsteigen/zugspitze_aid_12915.html)
 - [Zugspitze (2962m) via Stopselzieher](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2020/08/21/Zugspitze-Stopselzieher)
+
 
 
 
