@@ -17,7 +17,7 @@ This is a list of my favourite trail-running routes grouped by regions.
 
 
 ### Estergebierge
-- [Wank (1780m)](https://clemjar.github.io/hikingblog.github.io/hiking/)
+- [Wank (1780m)](https://clemjar.github.io/hikingblog.github.io/jekyll/update/2021/03/30/Wank)
 
 ### Garmisch
 - [Eibsee Umrundung](https://www.bergtour-online.de/bergtouren/bergwanderungen/leicht/eibsee-garmisch/)
