@@ -1,5 +1,7 @@
 # My Favourite Mountain Tours 
-on https://clemensjarnach.github.io/hikingblog.github.io/
+https://clemensjarnach.github.io/hikingblog.github.io/
+
+![lauren-hiking](https://clemensjarnach.github.io/hikingblog.github.io/assets/img/lauren-hiking-1.jpg)
 
 Welcome to my collection of favourite mountain tours, climbs, scrambles, ski-tours, and places. As a mountain enthusiast, I've explored many beautiful and challenging routes, and I've created this website to document my personal experiences.
 
